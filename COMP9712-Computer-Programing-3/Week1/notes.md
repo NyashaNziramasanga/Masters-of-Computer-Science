@@ -33,4 +33,15 @@ This all depends on the priorities of your algorithm e.g. Speech recognition (IO
 
 ### Time Space Complexity
 
+Running empirical tests on the algorithms of different sizes of inputs, and measure the results to figure out the time space complexity
+
+## Big O notation
+## Searches
+### Binary Search *O(log n)*
+This algorithm halves the size of the problem every time
+### Exponential growth  *O(2n)*
+This algorithm has exponential time complexity
+
+![order-of-growth-table](images/order-of-growth.png)
+
 ## References
