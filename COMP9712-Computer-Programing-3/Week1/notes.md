@@ -1,11 +1,36 @@
-# Week 1 Notes
+# Week 1
 
-## Reading topics
+## Table of Contents
 
-- Big(O) - log n, n log n, 0(1), 2n, n
+1. [Algorithms](#Algorithms)
+2. [References](#References)
+
+<!-- - Big(O) - log n, n log n, 0(1), 2n, n
 - Sorting algorithms
-- Time complexity
-- Algorithms
-- Time & Space complexity
 - Hashing - Constant time lookup
-- Binary search -  splits arr in half
+- Binary search -  splits arr in half -->
+
+## Algorithms
+
+An algorithm is an explicit sequence of steps to be
+performed in order to solve a problem
+
+### Examples of algorithms
+
+- Search engines
+- Database transactions (Sales and inventory)
+- Compression algorithms (GIFs, MPEG)
+
+### Choosing an algorithm
+
+When making the decision on which algorithm to choose which are designed to solve the same problem
+
+1. 🎯**Accuracy** - The expected result to reach a high enough accuracy to be acceptable, in speech recognition
+2. ⌛**Time Complexity** - How long the algorithm takes to run
+3. 💾**Space Complexity** - Amount of disk space or memory an algorithm requires to run
+
+This all depends on the priorities of your algorithm e.g. Speech recognition (IOS siri) prioritizes quick response time over accuracy
+
+### Time Space Complexity
+
+## References
