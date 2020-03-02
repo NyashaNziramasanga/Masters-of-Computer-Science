@@ -43,5 +43,6 @@ This algorithm halves the size of the problem every time
 This algorithm has exponential time complexity
 
 ![order-of-growth-table](images/order-of-growth.png)
+![order-of-growth-chart](images/order-of-growth-chart.png)
 
 ## References
