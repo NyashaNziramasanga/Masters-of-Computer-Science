@@ -1,14 +1,10 @@
-# Week 1
+# Week 1 - Analysis of Algorithms
 
 ## Table of Contents
 
 1. [Algorithms](#Algorithms)
 2. [References](#References)
-
-<!-- - Big(O) - log n, n log n, 0(1), 2n, n
-- Sorting algorithms
-- Hashing - Constant time lookup
-- Binary search -  splits arr in half -->
+3. [Big O notation](#BigO)
 
 ## Algorithms
 
@@ -96,4 +92,3 @@ Finding every possibility
 ## References
 
 - [Big-O Notation in 100 Seconds (Video)](https://www.youtube.com/watch?v=g2o22C3CRfU)
-- []()
