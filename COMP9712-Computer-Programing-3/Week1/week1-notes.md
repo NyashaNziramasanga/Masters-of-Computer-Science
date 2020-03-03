@@ -4,7 +4,7 @@
 
 1. [Algorithms](#Algorithms)
 2. [References](#References)
-3. [Big O notation](#BigO)
+3. [Big O notation](#Big%20O%20notation)
 
 ## Algorithms
 
