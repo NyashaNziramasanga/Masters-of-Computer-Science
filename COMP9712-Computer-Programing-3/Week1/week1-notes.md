@@ -2,9 +2,10 @@
 
 ## Table of Contents
 
-1. [Algorithms](#Algorithms)
-2. [References](#References)
-3. [Big O notation](#Big%20O%20notation)
+- [Algorithms](#Algorithms)
+- [Big O notation](#Big%20O%20notation)
+- [Space time complexity tables](#Space%20time%20complexity%20tables)
+- [References](#References)
 
 ## Algorithms
 
@@ -78,7 +79,7 @@ for a in arr:
   for b in arr:
 ```
 
-### Exponential Complexity `O (2^N)`
+### 5. Exponential Complexity `O (2^N)`
 
 Finding every possibility
 
