@@ -93,3 +93,4 @@ Finding every possibility
 ## References
 
 - [Big-O Notation in 100 Seconds (Video)](https://www.youtube.com/watch?v=g2o22C3CRfU)
+- [What is O(log n)? Learn Big O Logarithmic Time Complexity (Article)](https://dev.to/nielsenjared/big-o-logarithmic-time-complexity-gng)
