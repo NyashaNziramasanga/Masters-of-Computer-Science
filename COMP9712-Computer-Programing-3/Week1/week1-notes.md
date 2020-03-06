@@ -90,6 +90,20 @@ Finding every possibility
 ![order-of-growth-table](images/order-of-growth.png)
 ![order-of-growth-chart](images/order-of-growth-chart.png)
 
+## Calculating complexity
+
+1. Examine the code statement-by-statement
+2. Apply rules to calculate complexity
+3. Then simplify the formula
+
+## Data Structures
+
+- Graphs
+- Array List
+- Linked Lists
+- Dictionary
+- Tree
+
 ## References
 
 - [Big-O Notation in 100 Seconds (Video)](https://www.youtube.com/watch?v=g2o22C3CRfU)
