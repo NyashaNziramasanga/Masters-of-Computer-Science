@@ -14,4 +14,5 @@ Named storage for a value, which has a name (identifier) and a type
 ```java
 // Declare and assign variable
 int one = 1;
+int three = 3, four = 4;
 ```
