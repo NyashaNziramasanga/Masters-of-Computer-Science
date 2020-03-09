@@ -1,5 +1,7 @@
 # Week 1 - Intro to Enterprise Cloud Systems
 
+![topic-outline](images/topic-outline.png)
+
 `Cloud Computing` - Delivery of computer services including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (the cloud)
 
 `Enterprise systems (ES)` are large-scale enterprise software packages that support business processes, information flows, reporting, and data analytics in complex organizations. e.g. CRM, Enterprise Application Systems (EAS), ERP etc
