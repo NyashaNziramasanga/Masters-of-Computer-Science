@@ -12,6 +12,10 @@ Text book
 
 ![topic-schedule](images/topic-schedule.png)
 
+## Topic Assessments
+
+![topic-assessments](images/topic-assessments.png)
+
 ## Database Systems Lifecycle
 
 ### Information systems
