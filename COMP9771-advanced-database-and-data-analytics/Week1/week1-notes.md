@@ -8,6 +8,10 @@ Text book
 
 - [Database Systems: A Practical Approach to Design, Implementation, and Management, Global Edition](https://www.amazon.com.au/Database-Systems-Practical-Implementation-Management/dp/1292061189/ref=asc_df_1292061189/?tag=googleshopdsk-22&linkCode=df0&hvadid=341744103972&hvpos=&hvnetw=g&hvrand=11252282816518416300&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9070902&hvtargid=pla-444954369812&psc=1)
 
+## Topic Schedule
+
+![topic-schedule](images/topic-schedule.png)
+
 ## Database Systems Lifecycle
 
 ### Information systems
