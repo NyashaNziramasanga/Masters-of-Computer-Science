@@ -16,11 +16,9 @@ Text book
 
 ![topic-assessments](images/topic-assessments.png)
 
+`Information systems` Enable collection, management, control and dissemination of information
+
 ## Database Systems Lifecycle
-
-### Information systems
-
-Enable collection, management, control and dissemination of information
 
 ## DB system dev lifecycle
 
@@ -30,21 +28,26 @@ Stages a DB goes through in its development stage
 - System definition
 - Requirements gathering and analysis
 - Data modelling and Design
+- DBMS selection (optional)
+- Application design
 - Prototyping (Optional)
 - Implementation
 - Data conversion and loading
 - Testing
 - Operational maintenance
 
-INSERT IMAGE
+![db-systems-lifecycle](images/db-systems-lifecycle.png)
 
 ### 1. DB Planning
 
 Define objective and aims of the DB through a mission statement, also includes information of the resources needed
 
-DB planning show include standards that govern
+DB planning should include standards that govern:
 
--
+- how data is be collected
+- how the format should be specified
+- data documentation needed
+- design and implementation of data model.
 
 > `Closed world assumption` - anything not stored in the database is false
 
@@ -52,8 +55,6 @@ DB planning show include standards that govern
 
 - User views, take into account all users
 - Define user views/access rights or what data users can access
-
-INSERT IMAGE
 
 ### 3. Requirements gathering and System Analysis
 
