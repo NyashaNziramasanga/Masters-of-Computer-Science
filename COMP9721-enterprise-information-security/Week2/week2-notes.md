@@ -33,3 +33,44 @@
 ## Risk Management Guide for IT systems
 
 > INSERT IMAGE - Risk mitigation strategies
+
+## Mitigation Techniques
+
+- Procedures, to combat risk
+- Purchase equipment (Hardware or Software)
+- Create new staff position
+- Reconfigure environment physical, operational and logical
+- Educating staff on being more security conscious and culture change
+
+## Risk control
+
+### Risk Control Cycle
+
+![risk-control](images/risk-control.png)
+
+### Types of Controls
+
+- Technical Security Controls - Supportive,preventative
+- Management Security Controls
+- Operational Security Controls
+
+## Assurance
+
+- Benchmarking
+- Best Practice Approach
+- Baselining
+
+## Incident Response
+
+- Damage control
+- Containment
+- Isolation
+- Recovery
+- Investigation
+- Root-cause analysis
+- Report
+- Review
+- Modification to
+- Notification to
+- Implementation of
+- Updating of
