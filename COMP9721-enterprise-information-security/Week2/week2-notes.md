@@ -2,7 +2,21 @@
 
 **Identify** the risks and risk tolerance (Risk averse or risk taker)
 
-> INSERT IMAGE - Overall Security Conceptual Model
+## Nature of Risk Management
+
+- Identifying what is worth protecting
+- Identifying potential threats
+- Identifying potential weaknesses
+- Evaluating and assessing
+  - Threat potential
+  - Loss potential
+- Implementing strategies to
+  - Prevent the risk event from occurring
+  - Minimise loss/damage if risk event occurs
+
+### Components of Risk Management
+
+![components-of-risk-management](images/components-of-risk-management.png)
 
 > **Security-Freedom Dilemma** - The higher the security the less freedom you have
 
@@ -30,10 +44,6 @@
 
 ![risk-model](images/risk-model.png)
 
-## Risk Management Guide for IT systems
-
-> INSERT IMAGE - Risk mitigation strategies
-
 ## Mitigation Techniques
 
 - Procedures, to combat risk
@@ -54,11 +64,29 @@
 - Management Security Controls
 - Operational Security Controls
 
-## Assurance
+## Risk Assurance
 
-- Benchmarking
-- Best Practice Approach
-- Baselining
+Checking that risk plans are implemented and how they are working. Tools used include:
+
+- **Benchmarking** - Comparing organisation performance with industry standards
+- **Best Practice Approach** - Gained from broad experiences across many organisations or industries over a long period of time
+- **Baselining** - Establishes a working point for comparing future performance
+
+## Risk Assessment
+
+After Identifying what is worth protecting, and identifying potential threats and vulnerabilities, assess and evaluate the level of risk:
+
+- Likelihood of risk event
+- Value of the risk asset
+- Amount of risk mitigated (reduced) by current controls
+- Likelihood of loss from such a risk event
+- Uncertainty of current knowledge of the event
+
+e.g. Risk matrix
+
+## Risk Mitigation Activities
+
+![risk-mitigation-activities](images/risk-mitigation-activities.png)
 
 ## Incident Response
 
