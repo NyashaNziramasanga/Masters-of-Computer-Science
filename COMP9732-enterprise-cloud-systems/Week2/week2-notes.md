@@ -1,4 +1,6 @@
-# Week 2 - 📓 Technical Communication 📓
+# Week 2
+
+## Part1: 📓 Technical Communication 📓
 
 ## Factors
 
@@ -7,13 +9,15 @@
 - **Format** - Reports , presentations
 - **Style** - organisation, layout, high-level/low-level, structure and language
 
-## Unified Modelling Language (UML)
+## Diagrams
+
+### Unified Modelling Language (UML)
 
 - Outlines the system requirement's
 
 ![uml](images/uml.png)
 
-## Use Case Diagrams (UCDs)
+### Use Case Diagrams (UCDs)
 
 - Captures system requirements
 - Describes the functionality of a system
@@ -21,8 +25,21 @@
 
 ![uml](images/ucd.png)
 
-## Class Diagrams
+### Class Diagrams
 
 - Models the static, object-oriented structure of a system
 
 ![uml](images/class-diagram.png)
+
+## Part2: 🏛️ Enterprise Architectures 🏛️
+
+### Types of Servers
+
+Each server does a single service, below are examples:
+
+- File Server - Manages data, example FTP
+- Data Server - Database
+- Email Server - Manages and stores emails
+- Web Server - Handle HTTP protocols and services
+- Print Server
+- Application Server
