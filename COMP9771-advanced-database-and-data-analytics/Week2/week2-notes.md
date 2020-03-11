@@ -1,4 +1,4 @@
-# Week 2 - Functional Dependencies and Normalization
+# Week 2 - Functional Dependencies and Normalization (In Exam)
 
 **Normalization** - Technique for producing suitable relations that support the data requirements for an enterprise
 
@@ -21,3 +21,5 @@
 
 Define
 Characteristics of Functional Dependencies
+
+## Boyce-Codd Form
