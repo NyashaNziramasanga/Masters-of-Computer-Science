@@ -20,7 +20,22 @@
 
 > **Security-Freedom Dilemma** - The higher the security the less freedom you have
 
-> INSERT IMAGE - Security-Freedom Dilemma
+## Risk Assessment
+
+After Identifying what is worth protecting, and identifying potential threats and vulnerabilities, assess and evaluate the level of risk:
+
+- Likelihood of risk event
+- Value of the risk asset
+- Amount of risk mitigated (reduced) by current controls
+- Likelihood of loss from such a risk event
+- Uncertainty of current knowledge of the event
+
+e.g. Risk matrix
+
+Assessment needs to return some quantitative value that can be associated with the risk
+event such a \$ value or percentage likelihood
+
+Evaluation outcome can be classified as **Insignificant**, **minor**, **moderate**, **major** or **catastrophic**
 
 ## Risk Management Process
 
@@ -66,23 +81,13 @@
 
 ## Risk Assurance
 
-Checking that risk plans are implemented and how they are working. Tools used include:
+Assessing that impact of risk plans/procedures implemented, how they are working and how they are measured qualitative or quantitative
+
+Tools used include:
 
 - **Benchmarking** - Comparing organisation performance with industry standards
 - **Best Practice Approach** - Gained from broad experiences across many organisations or industries over a long period of time
 - **Baselining** - Establishes a working point for comparing future performance
-
-## Risk Assessment
-
-After Identifying what is worth protecting, and identifying potential threats and vulnerabilities, assess and evaluate the level of risk:
-
-- Likelihood of risk event
-- Value of the risk asset
-- Amount of risk mitigated (reduced) by current controls
-- Likelihood of loss from such a risk event
-- Uncertainty of current knowledge of the event
-
-e.g. Risk matrix
 
 ## Risk Mitigation Activities
 
