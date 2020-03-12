@@ -1,6 +1,6 @@
 # Week 2
 
-## Part1: 📓 Technical Communication 📓
+## Part 1: 📓 Technical Communication 📓
 
 ## Factors
 
@@ -31,7 +31,7 @@
 
 ![uml](images/class-diagram.png)
 
-## Part2: 🏛️ Enterprise Architectures 🏛️
+## Part 2: 🏛️ Enterprise Architectures 🏛️
 
 ### Types of Servers
 
@@ -43,3 +43,9 @@ Each server does a single service, below are examples:
 - Web Server - Handle HTTP protocols and services
 - Print Server
 - Application Server
+
+**Legacy System** - Old method, technology or program that is outdated but still in use.
+
+**Distributed Systems** - Computing resources are distributed to multiple locations and connected by the network.
+
+### Enterprise Integrations
