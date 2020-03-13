@@ -1,6 +1,6 @@
-# Week 2 Wrokshop
+# Week 2 Workshop
 
-## [Dropbox Migration to its own server](https://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire/)
+## Case Study 3: [Dropbox Migration to its own servers](https://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire/)
 
 ### Benefits
 
