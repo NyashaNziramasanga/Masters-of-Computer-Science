@@ -27,4 +27,4 @@ public static void main(String[] args) {
 - `static` method can be invoked without creating an instance of the class
 - `void` method doesn't return any value
 - `main` method name and entry point
-- The array variable args contains arguments entered at the command line if there are no arguments then the array is empty
+- `String[] args` the array variable args contains arguments entered at the command line if there are no arguments then the array is empty
