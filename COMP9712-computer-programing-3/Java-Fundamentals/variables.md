@@ -9,10 +9,44 @@ Named storage for a value, which has a name (identifier) and a type
 - logical type: `boolean` (true or false)
 - characters: `char` (for example, 'a', '3')
 
+![primitive-types](images/primitive-types.png)
+
 ### Example
 
 ```java
 // Declare and assign variable
 int one = 1;
 int three = 3, four = 4;
+```
+
+### Hints
+
+```java
+// L to change int to float
+long viewsCount = 3_123_456_789L;
+
+// F to change double to float
+float price = 10.99F;
+
+// Single Quote for single char and Double Quotes for string of characters
+char letter = 'A';
+```
+
+---
+
+## Reference Types
+
+- Use `new` to create a new instance of the class which allocates memory
+
+```java
+import java.util.Date;
+public class Main {
+  public static void main(String[] args){
+    // Date reference type, creating a new instance of the Date() class
+    // Use `new` to allocate memory
+    Date now = new Date();
+  }
+}
+
+
 ```
