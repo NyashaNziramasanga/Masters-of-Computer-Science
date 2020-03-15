@@ -34,15 +34,21 @@ The IT department handles all the development of the Upvise CRM software service
 
 ## 1.Risk Management Assessment
 
-### 1a. Assets Categories
+### Identified Risks:
 
-- **People**
-- **Information assets**
-- **Software assets**
-- **Physical assets**
-- **Services**
+#### 1. Bring Your Own Device (BYOD) policy risks
 
-### 1b. Identify Risks
+As a BYOD policy brings with it multiple benefits such as increased productivity, cost savings and accessibility to company information from any location[Reference](https://minerva-access.unimelb.edu.au/bitstream/handle/11343/33345/300314_2013_Tan_Risk.pdf?sequence=1&isAllowed=y).
+
+There are however major risks associated with BYOD, the biggest one being lack of control over data and devices. Employees can abuse company IT resources by bypassing IT policy for ease of use on there personal device and using there devices for personal recreational activities such as using social media during work.
+
+Another major that since Kontrol4 has development teams who are building the Upvise CRM Software there is potential for intellectual property breaches as the software is being developed on none company hardware. This could also lead to data leaks on important company secrets to unauthorized agents such as there competitors.
+
+#### 2. Information Technology (IT) Infrastructure
+
+Kontrol4 host there web applications and databases on Microsoft Azure Cloud Platform. The risk with this if for some reason the service is not available they lose critical parts for there systems. Also there are no back ups for the databases which is a big security risk if a database is deleted.
+
+> #### 3.
 
 > ## Risk Prioritisation and Analysis Risk Assessment (50%)
 
