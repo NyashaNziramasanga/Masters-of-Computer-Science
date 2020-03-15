@@ -55,7 +55,7 @@ String Reference type
 String message  = new String("Hello World");
 ```
 
-## Escape Sequences:
+## Escape Sequences
 
 Adding special characters in strings
 
