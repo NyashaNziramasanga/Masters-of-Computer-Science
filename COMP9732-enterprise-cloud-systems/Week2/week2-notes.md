@@ -17,11 +17,35 @@
 
 ![uml](images/uml.png)
 
+## UML types
+
+### 1. Structural UML Diagrams:
+
+- Class diagram
+- Package diagram
+- Object diagram
+- Component diagram
+- Composite structure diagram
+- Deployment diagram
+
+### 2. Behavioral UML Diagrams
+
+- Activity diagram
+- Sequence diagram
+- Use case diagram
+- State diagram
+- Communication diagram
+- Interaction overview diagram
+- Timing diagram
+
+---
+
 ### Use Case Diagrams (UCDs)
 
 - Captures system requirements
 - Describes the functionality of a system
   horizontally
+- Means of communicating with stakeholders
 
 ![uml](images/ucd.png)
 
@@ -29,7 +53,22 @@
 
 - Models the static, object-oriented structure of a system
 
+Purpose:
+
+- Analysis & design of the static view of an application
+- Describe responsibilities of a system
+- Base for component & deployment diagrams
+- Forward & reverse engineering
+
+### Example
+
+- **Class name:** Flight
+- **Attributes:** flightNumber, departureTime, flightDuration
+- **Operations:** delayFlight, getArrivalTime
+
 ![uml](images/class-diagram.png)
+
+---
 
 ## Part 2: 🏛️ Enterprise Architectures 🏛️
 
@@ -48,4 +87,24 @@ Each server does a single service, below are examples:
 
 **Distributed Systems** - Computing resources are distributed to multiple locations and connected by the network.
 
-### Enterprise Integrations
+---
+
+## Types of Architectures
+
+### 1. Layered Architecture
+
+Client–server architecture in which presentation, application processing and data management functions are physically separated
+
+![Layered Architecture](images/layered-architecture.png)
+
+### 2. Distributed Architecture
+
+System whose components are located on different networked computers
+
+![Distributed Architecture](images/distributed-architecture.png)
+
+---
+
+**Software Integration** - Process of merging two or more diverse software systems
+
+**Data Cleansing** - Cleansing data ensures it is correct, complete, consistent, and adheres to business rules
