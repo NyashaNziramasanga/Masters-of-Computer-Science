@@ -11,7 +11,7 @@ Used to restrict access accessibility of a class, method or variable on which it
 ## Class
 
 ```java
-class Task {
+public class Task {
 }
 ```
 
@@ -28,3 +28,13 @@ public static void main(String[] args) {
 - `void` method doesn't return any value
 - `main` method name and entry point
 - `String[] args` the array variable args contains arguments entered at the command line if there are no arguments then the array is empty
+
+## All together example
+
+```java
+public class Main {
+  public void main(){
+    ...
+  }
+}
+```
