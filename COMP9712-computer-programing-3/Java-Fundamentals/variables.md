@@ -47,6 +47,28 @@ public class Main {
     Date now = new Date();
   }
 }
+```
 
+String Reference type
 
+```java
+String message  = new String("Hello World");
+```
+
+## Escape Sequences:
+
+Adding special characters in strings
+
+```java
+// Use \ (Backslash) to escape quotes
+String message = "Hello \"Nash\"";
+
+// Add another \ (Backslash) when using a backslash
+String location = "c:\\Windows\\...";
+
+// New Line using \n (Backslash N)
+String message = "Hello \n Nash";
+
+// Add a tab using \t (Backslash T)
+String message = "Hello \t Nash";
 ```
