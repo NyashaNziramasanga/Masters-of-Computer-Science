@@ -30,6 +30,9 @@ float price = 10.99F;
 
 // Single Quote for single char and Double Quotes for string of characters
 char letter = 'A';
+
+// `final` makes variable a CONSTANT so cannot be reassigned
+final float pi = 3.14F;
 ```
 
 ---
