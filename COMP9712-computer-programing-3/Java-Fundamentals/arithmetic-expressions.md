@@ -48,3 +48,18 @@ int y = x + 2;
 short x = 1;
 int y = (int)x + 2;
 ```
+
+---
+
+## Math
+
+```java
+// Round up
+Math.round()
+
+// Highest whole integer, might need to cast
+Math.ceil()
+
+// Lowest whole integer, might need to cast
+Math.floor()
+```
