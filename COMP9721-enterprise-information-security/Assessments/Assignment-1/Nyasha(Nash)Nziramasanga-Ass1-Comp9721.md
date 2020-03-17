@@ -13,11 +13,11 @@
 
 - [Introduction](##Introduction)
   - [Risk Discussion](###Risk%20Discussion)
+- [Background Research](##Background%20Research)
   - [Case Study](###Case%20Study)
-- Background Research
   - Review of information security risks
-- Risk Prioritisation and Analysis
-  - [Risk Assessment](##Risk%20Assessment)
+- [Risk Prioritisation and Analysis](##Risk%20Prioritisation%20and%20Analysis)
+  - [Risk Assessment](###Risk%20Assessment)
   - [Risk Control Plan Strategy](###Risk%20Control%20Plan%20Strategy)
 - [References](##%20References)
 
@@ -31,17 +31,23 @@
 
 The purpose of the risk assessment report is to identify threats and vulnerabilities related to Kontrol4 PTY LTD (K4). The risk assessment will be utilised to identify risks, form a mitigation plan and procedures on how to monitor risk controls.
 
+## Background Research
+
 ### Case Study
 
 Kontrol4 PTY LTD an IT services company based in Melbourne, Australia manage and sale a Customer relationship management(CRM) software called Upvise CRM to over 1800 small to medium enterprise (SME's) customers in the civil construction industry. Kontrol4 currently have a workforce of 55 employee's split into the marketing, administration, IT, accounting and sales departments.
 
 The IT department handles all the development of the Upvise CRM software services and the e-commerce site for their Managed Services Provider (MSP) services such as a Microsoft 365, GSuite and Myki password manager. Recently the IT Department has been experimenting with working from home for its software development teams and adopted a BYOD (Bring Your Own Device) policy. All of Kontrol4's database's and web apps are hosted on Microsoft Azure Cloud Platform which is being hosted on Servers located in the Netherlands.
 
-> ## Risk Discussion Background Research Review of information security risks (from research) (15%)
+## Risk Prioritisation and Analysis
 
-## 1.Risk Management Assessment
+> ### Risk Assessment (50%)
+
+### Risk Assessment
 
 ### Identified Risks:
+
+> ADD TABLE
 
 #### 1. Bring Your Own Device (BYOD) policy risks
 
@@ -56,10 +62,6 @@ Another major that since Kontrol4 has development teams who are building the Upv
 Kontrol4 host there web applications and databases on Microsoft Azure Cloud Platform. The risk with this if for some reason the service is not available they lose critical parts for there systems. Also there are no back ups for the databases which is a big security risk if a database is deleted.
 
 > #### 3.
-
-> ## Risk Prioritisation and Analysis Risk Assessment (50%)
-
-## Risk Assessment
 
 > ## Risk Control Plan Strategy (20%)
 
