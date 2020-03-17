@@ -11,20 +11,25 @@
 
 ## Table of Contents
 
-- Introduction
-- Case Study
-- Risk Discussion Background Research Review of information security risks (from research)
-- Risk Prioritisation and Analysis Risk Assessment
-- Risk Control Plan Strategy
-- References
+- [Introduction](##Introduction)
+  - [Risk Discussion](###Risk%20Discussion)
+  - [Case Study](###Case%20Study)
+- Background Research
+  - Review of information security risks
+- Risk Prioritisation and Analysis
+  - [Risk Assessment](##Risk%20Assessment)
+  - [Risk Control Plan Strategy](###Risk%20Control%20Plan%20Strategy)
+- [References](##%20References)
 
 > ## Introduction (5%)
 
 ## Introduction
 
+### Risk Discussion
+
 > The risk assessment document will assess Kontrol4 PTY LTD, cyber resilience and
 
-## Case Study
+### Case Study
 
 Kontrol4 PTY LTD an IT services company based in Melbourne, Australia manage and sale a Customer relationship management(CRM) software called Upvise CRM to over 1800 small to medium enterprise (SME's) customers in the civil construction industry. Kontrol4 currently have a workforce of 55 employee's split into the marketing, administration, IT, accounting and sales departments.
 
@@ -38,7 +43,7 @@ The IT department handles all the development of the Upvise CRM software service
 
 #### 1. Bring Your Own Device (BYOD) policy risks
 
-As a BYOD policy brings with it multiple benefits such as increased productivity, cost savings and accessibility to company information from any location[Reference](https://minerva-access.unimelb.edu.au/bitstream/handle/11343/33345/300314_2013_Tan_Risk.pdf?sequence=1&isAllowed=y).
+As a BYOD policy brings with it multiple benefits such as increased productivity, cost savings and accessibility to company information from any location [Reference](https://minerva-access.unimelb.edu.au/bitstream/handle/11343/33345/300314_2013_Tan_Risk.pdf?sequence=1&isAllowed=y).
 
 There are however major risks associated with BYOD, the biggest one being lack of control over data and devices. Employees can abuse company IT resources by bypassing IT policy for ease of use on there personal device and using there devices for personal recreational activities such as using social media during work.
 
@@ -52,16 +57,18 @@ Kontrol4 host there web applications and databases on Microsoft Azure Cloud Plat
 
 > ## Risk Prioritisation and Analysis Risk Assessment (50%)
 
-## 2. Risk Analysis
+## Risk Assessment
 
 > ## Risk Control Plan Strategy (20%)
 
-## 3.Risk Control
+### Risk Control Plan Strategy
 
-### 3a. Risk Control Strategy
+### a. Risk Control Strategy
 
-### 3b. Risk Control Implementation
+### b. Risk Control Implementation
 
-### 3c. Risk Control Monitoring and Assurance
+### c. Risk Control Monitoring and Assurance
 
 > ## References ( 5%)
+
+## References

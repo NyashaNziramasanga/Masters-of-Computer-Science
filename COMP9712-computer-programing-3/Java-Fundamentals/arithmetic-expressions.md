@@ -62,4 +62,7 @@ Math.ceil()
 
 // Lowest whole integer, might need to cast
 Math.floor()
+
+
+Math.max()
 ```
