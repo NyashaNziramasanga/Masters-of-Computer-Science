@@ -59,13 +59,15 @@ Participants
 
 Techniques Used
 
-1. **Questionnaire** - Assessed participants using digital forms with 40 multiple choice questions and a 10 min interview.
+1. **Questionnaire and Interview** - Assessed participants using digital forms with 40 multiple choice questions and a 10 min interview.
 
 2. **Vulnerability Database** - Several vulnerability databases where used such as :
 
 > LIST VULNERABILITY DATABASES
 
 3. **Risk assessing frameworks**
+
+4. **Onsite visit** - A visit to K4s Offices in Frankston to assess physical access and vulnerabilities
 
 > LIST RISK FRAMEWORKS
 
