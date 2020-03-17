@@ -47,6 +47,28 @@ Recently the IT Department has been experimenting with working from home for its
 
 ### Risk Assessment
 
+#### Identified Stakeholders
+
+Participants
+
+| Role                      | Participant                                  |
+| ------------------------- | -------------------------------------------- |
+| IT Director               | Harry Stevens                                |
+| DevOps                    | Lucy Harper, Edward Jap                      |
+| Software Development Team | Tim Burns, Laura Newton, Adrian Max, Tom Lui |
+
+Techniques Used
+
+1. **Questionnaire** - Assessed participants using digital forms with 40 multiple choice questions and a 10 min interview.
+
+2. **Vulnerability Database** - Several vulnerability databases where used such as :
+
+> LIST VULNERABILITY DATABASES
+
+3. **Risk assessing frameworks**
+
+> LIST RISK FRAMEWORKS
+
 ### Identified Risks:
 
 > ADD TABLE
