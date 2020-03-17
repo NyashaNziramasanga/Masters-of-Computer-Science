@@ -47,7 +47,7 @@ Recently the IT Department has been experimenting with working from home for its
 
 #### 3.1.1 Identified Stakeholders
 
-Below are the identified stakeholders participating in gathering information and also assess the risks and the techniques used.
+Below are the identified stakeholders participants and techniques used to assess and gather information.
 
 ##### Participants
 
@@ -59,14 +59,12 @@ Below are the identified stakeholders participating in gathering information and
 
 ##### Techniques Used
 
-| Technique                       | Description                                                                                         |
-| ------------------------------- | --------------------------------------------------------------------------------------------------- |
-| **Questionnaire and Interview** | Assessed participants using digital forms with 40 multiple choice questions and a 10 min interview. |
-| **Vulnerability Database**      | Several vulnerability databases where used such as:                                                 |
-| **Risk assessing frameworks**   |                                                                                                     |
-| **Onsite visit**                | A visit to K4s Offices in Frankston to assess physical access and vulnerabilities                   |
-
-> LIST vulnerability databases & LIST RISK FRAMEWORKS
+| Technique                       | Description                                                                                                                                                                                                                         |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Questionnaire and Interview** | Assessed participants using digital forms with 40 questions based on the [PCI Data Security Standards (R2)](http://www.umanitoba.ca/admin/financial_services/media/PCI_DSS_Compliance_FinalNov_01_-_PDF.pdf) and a 10 min interview |
+| **Vulnerability Database**      | Several vulnerability databases where used such as [owasp top 10 web application security risks](https://owasp.org/www-project-top-ten/) and [National Vulnerability Database](https://nvd.nist.gov/)                               |
+| **Onsite Visit**                | A visit to K4s Offices in Frankston, Melbourne to assess physical access and vulnerabilities                                                                                                                                        |
+| **Policy Review**               | Reviewing of security policy documentation, system documentation and operational procedures                                                                                                                                         |
 
 ### 3.1.2 Identified Risks
 
@@ -94,4 +92,5 @@ Kontrol4 host there web applications and databases on Microsoft Azure Cloud Plat
 
 ## 4. References
 
-- [Reference1](https://minerva-access.unimelb.edu.au/bitstream/handle/11343/33345/300314_2013_Tan_Risk.pdf?sequence=1&isAllowed=y)
+- [Reference 1](https://minerva-access.unimelb.edu.au/bitstream/handle/11343/33345/300314_2013_Tan_Risk.pdf?sequence=1&isAllowed=y)
+- [Reference 2 - PCI data security standards](http://www.umanitoba.ca/admin/financial_services/media/PCI_DSS_Compliance_FinalNov_01_-_PDF.pdf)
