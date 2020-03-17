@@ -18,6 +18,8 @@
   - 2.2 Review of information security risks
 - [3. Risk Prioritisation and Analysis](##3.%20Risk%20Prioritisation%20and%20Analysis)
   - [3.1 Risk Assessment](###3.1%20Risk%20Assessment)
+    - [3.1.1 Identified Stakeholders](#####3.1.1%20Identified%20Stakeholders)
+    - [3.1.2 Identified Risks](#####3.1.2%20Identified%20Risks)
   - [3.2 Risk Control Plan Strategy](###3.2%20Risk%20Control%20Plan%20Strategy)
 - [4. References](##4.%20References)
 
@@ -49,7 +51,9 @@ Recently the IT Department has been experimenting with working from home for its
 
 ### 3.1 Risk Assessment
 
-#### Identified Stakeholders
+#### 3.1.1 Identified Stakeholders
+
+Below are the identified stakeholders participating in gathering information and also assess the risks and the techniques used.
 
 ##### Participants
 
@@ -59,7 +63,7 @@ Recently the IT Department has been experimenting with working from home for its
 | DevOps                    | Lucy Harper, Edward Jap                      |
 | Software Development Team | Tim Burns, Laura Newton, Adrian Max, Tom Lui |
 
-Techniques Used
+##### Techniques Used
 
 **Questionnaire and Interview** - Assessed participants using digital forms with 40 multiple choice questions and a 10 min interview.
 
@@ -73,7 +77,7 @@ Techniques Used
 
 > LIST RISK FRAMEWORKS
 
-### Identified Risks
+### 3.1.2 Identified Risks
 
 > ADD TABLE
 
@@ -96,6 +100,8 @@ Kontrol4 host there web applications and databases on Microsoft Azure Cloud Plat
 ### b. Risk Control Implementation
 
 ### c. Risk Control Monitoring and Assurance
+
+---
 
 ## 4. References
 
