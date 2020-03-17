@@ -65,17 +65,14 @@ Below are the identified stakeholders participating in gathering information and
 
 ##### Techniques Used
 
-**Questionnaire and Interview** - Assessed participants using digital forms with 40 multiple choice questions and a 10 min interview.
+| Technique                       | Description                                                                                         |
+| ------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Questionnaire and Interview** | Assessed participants using digital forms with 40 multiple choice questions and a 10 min interview. |
+| **Vulnerability Database**      | Several vulnerability databases where used such as:                                                 |
+| **Risk assessing frameworks**   |                                                                                                     |
+| **Onsite visit**                | A visit to K4s Offices in Frankston to assess physical access and vulnerabilities                   |
 
-**Vulnerability Database** - Several vulnerability databases where used such as :
-
-> LIST VULNERABILITY DATABASES
-
-**Risk assessing frameworks**
-
-**Onsite visit** - A visit to K4s Offices in Frankston to assess physical access and vulnerabilities
-
-> LIST RISK FRAMEWORKS
+> LIST vulnerability databases & LIST RISK FRAMEWORKS
 
 ### 3.1.2 Identified Risks
 
