@@ -19,7 +19,8 @@
 - [3. Risk Prioritisation and Analysis](##3.%20Risk%20Prioritisation%20and%20Analysis)
   - [3.1 Risk Assessment](###3.1%20Risk%20Assessment)
     - [3.1.1 Identified Stakeholders](#####3.1.1%20Identified%20Stakeholders)
-    - [3.1.2 Identified Risks](#####3.1.2%20Identified%20Risks)
+    - [3.1.2 Risk Model](#####3.1.2%20Risk%20Model)
+    - [3.1.3 Identified Risks](#####3.1.3%20Identified%20Risks)
   - [3.2 Risk Control Plan Strategy](###3.2%20Risk%20Control%20Plan%20Strategy)
 - [4. References](##4.%20References)
 
@@ -66,7 +67,31 @@ Below are the identified stakeholders participants and techniques used to assess
 | **Onsite Visit**                | A visit to K4s Offices in Frankston, Melbourne to assess physical access and vulnerabilities                                                                                                                                        |
 | **Policy Review**               | Reviewing of security policy documentation, system documentation and operational procedures                                                                                                                                         |
 
-### 3.1.2 Identified Risks
+### 3.1.2 Risk Model
+
+Determining risk for K4 the following risk model was utilized:
+
+```
+Risk = Threat Event Likelihood X Impact of Event Occurring
+```
+
+Threat Event Likelihood definition:
+
+| Likelihood (Weight) | Definition                                                                |
+| ------------------- | ------------------------------------------------------------------------- |
+| High (1.0)          | Threat event is highly likely to occur, with no controls to prevent event |
+| Moderate (0.5)      | Threat event can occur, however controls are in place to impede event     |
+| Low (0.1)           | Threat event likely wont occur, and controls are in place to impede event |
+
+Impact of Event Occurring measured as a score :
+
+| Impact (Score) | Definition                                                                     |
+| -------------- | ------------------------------------------------------------------------------ |
+| High (100)     | Major Damage to company assets, with potential financial and reputational loss |
+| Moderate (50)  | Significant loss and degradation to company assets                             |
+| Low (10)       | Minor damage to company assets and minimal financial loss                      |
+
+### 3.1.3 Identified Risks
 
 > ADD TABLE
 
