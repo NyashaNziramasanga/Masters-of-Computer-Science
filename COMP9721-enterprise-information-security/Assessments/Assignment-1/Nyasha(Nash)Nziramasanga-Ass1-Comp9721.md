@@ -23,8 +23,6 @@
   - [3.2 Risk Control Plan Strategy](###3.2%20Risk%20Control%20Plan%20Strategy)
 - [4. References](##4.%20References)
 
----
-
 ## 1. Introduction
 
 ### 1.1 Risk Discussion
@@ -32,8 +30,6 @@
 #### Purpose
 
 The purpose of the risk assessment report is to identify threats and vulnerabilities related to Kontrol4 PTY LTD (K4) cyber resilience. The risk assessment will be utilised to identify risks, the potential impact of the risks, form a mitigation plan and procedures on how to monitor implemented risk controls.
-
----
 
 ## 2. Background Research
 
@@ -44,8 +40,6 @@ Kontrol4 PTY LTD is an IT services company based in Melbourne, Australia. K4 man
 The IT department handles all software development and maintenance of the Upvise CRM software services. The e-commerce website for their Managed Services Provider (MSP) services such as Microsoft 365, GSuite and Myki password manager uses a third party service called [Stripe](https://stripe.com/au) for as there payment gateway.
 
 Recently the IT Department has been experimenting with working from home for its software development teams and adopted a BYOD (Bring Your Own Device) policy to improve employee satisfaction and reduce hardware procuring costs. All of K4's customer database's and web apps are hosted on Microsoft Azure Cloud Platform which is being hosted on Servers located in the Netherlands.
-
----
 
 ## 3. Risk Prioritisation and Analysis
 
@@ -97,8 +91,6 @@ Kontrol4 host there web applications and databases on Microsoft Azure Cloud Plat
 ### b. Risk Control Implementation
 
 ### c. Risk Control Monitoring and Assurance
-
----
 
 ## 4. References
 
