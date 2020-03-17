@@ -29,15 +29,17 @@
 
 #### Purpose
 
-The purpose of the risk assessment report is to identify threats and vulnerabilities related to Kontrol4 PTY LTD (K4). The risk assessment will be utilised to identify risks, form a mitigation plan and procedures on how to monitor risk controls.
+The purpose of the risk assessment report is to identify threats and vulnerabilities related to Kontrol4 PTY LTD (K4) cyber resilience. The risk assessment will be utilised to identify risks, the potential impact of the risks, form a mitigation plan and procedures on how to monitor implemented risk controls.
 
 ## Background Research
 
 ### Case Study
 
-Kontrol4 PTY LTD an IT services company based in Melbourne, Australia manage and sale a Customer relationship management(CRM) software called Upvise CRM to over 1800 small to medium enterprise (SME's) customers in the civil construction industry. Kontrol4 currently have a workforce of 55 employee's split into the marketing, administration, IT, accounting and sales departments.
+Kontrol4 PTY LTD is an IT services company based in Melbourne, Australia. K4 manage and sale a Customer relationship management (CRM) software called Upvise CRM to over 150 plus small to medium enterprises (SMEs) customers in the civil construction industry. K4 currently have a workforce of 35 employee's split into the marketing, administration, IT, accounting and sales departments.
 
-The IT department handles all the development of the Upvise CRM software services and the e-commerce site for their Managed Services Provider (MSP) services such as a Microsoft 365, GSuite and Myki password manager. Recently the IT Department has been experimenting with working from home for its software development teams and adopted a BYOD (Bring Your Own Device) policy. All of Kontrol4's database's and web apps are hosted on Microsoft Azure Cloud Platform which is being hosted on Servers located in the Netherlands.
+The IT department handles all software development and maintenance of the Upvise CRM software services. The e-commerce website for their Managed Services Provider (MSP) services such as Microsoft 365, GSuite and Myki password manager uses a third party service called [Stripe](https://stripe.com/au) for as there payment gateway.
+
+Recently the IT Department has been experimenting with working from home for its software development teams and adopted a BYOD (Bring Your Own Device) policy to improve employee satisfaction and reduce hardware procuring costs. All of K4's customer database's and web apps are hosted on Microsoft Azure Cloud Platform which is being hosted on Servers located in the Netherlands.
 
 ## Risk Prioritisation and Analysis
 
@@ -51,7 +53,7 @@ The IT department handles all the development of the Upvise CRM software service
 
 #### 1. Bring Your Own Device (BYOD) policy risks
 
-As a BYOD policy brings with it multiple benefits such as increased productivity, cost savings and accessibility to company information from any location [Reference](https://minerva-access.unimelb.edu.au/bitstream/handle/11343/33345/300314_2013_Tan_Risk.pdf?sequence=1&isAllowed=y).
+As a BYOD policy brings with it multiple benefits such as increased productivity, cost savings and accessibility to company information from any location [Reference1](https://minerva-access.unimelb.edu.au/bitstream/handle/11343/33345/300314_2013_Tan_Risk.pdf?sequence=1&isAllowed=y).
 
 There are however major risks associated with BYOD, the biggest one being lack of control over data and devices. Employees can abuse company IT resources by bypassing IT policy for ease of use on there personal device and using there devices for personal recreational activities such as using social media during work.
 
@@ -76,3 +78,5 @@ Kontrol4 host there web applications and databases on Microsoft Azure Cloud Plat
 > ## References ( 5%)
 
 ## References
+
+- [Reference1](https://minerva-access.unimelb.edu.au/bitstream/handle/11343/33345/300314_2013_Tan_Risk.pdf?sequence=1&isAllowed=y)
