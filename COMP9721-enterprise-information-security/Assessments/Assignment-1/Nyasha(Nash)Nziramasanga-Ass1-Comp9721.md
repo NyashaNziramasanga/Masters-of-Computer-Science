@@ -27,7 +27,9 @@
 
 ### Risk Discussion
 
-> The risk assessment document will assess Kontrol4 PTY LTD, cyber resilience and
+#### Purpose
+
+The purpose of the risk assessment report is to identify threats and vulnerabilities related to Kontrol4 PTY LTD (K4). The risk assessment will be utilised to identify risks, form a mitigation plan and procedures on how to monitor risk controls.
 
 ### Case Study
 
