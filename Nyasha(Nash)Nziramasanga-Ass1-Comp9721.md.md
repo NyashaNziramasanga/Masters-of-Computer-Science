@@ -104,6 +104,9 @@ Risk shall be calculated using the following Risk Matrix below, based on the Imp
 
 ### 3.1.3 Identified Risks
 
+> Vulnerability Assessement 
+> Threat Assessment
+
 #### Bring Your Own Device (BYOD) policy risks
 
 As a BYOD policy brings with it multiple benefits such as increased productivity, cost savings and accessibility to company information from any location [Reference1](https://minerva-access.unimelb.edu.au/bitstream/handle/11343/33345/300314_2013_Tan_Risk.pdf?sequence=1&isAllowed=y).
@@ -129,6 +132,6 @@ Kontrol4 host there web applications and databases on Microsoft Azure Cloud Plat
 - [Reference 1](https://minerva-access.unimelb.edu.au/bitstream/handle/11343/33345/300314_2013_Tan_Risk.pdf?sequence=1&isAllowed=y)
 - [Reference 2 - PCI data security standards](http://www.umanitoba.ca/admin/financial_services/media/PCI_DSS_Compliance_FinalNov_01_-_PDF.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDg1MjU4NywyMDA0MjI1MzE2LDE5Nz
-kwODM0NDVdfQ==
+eyJoaXN0b3J5IjpbLTcyNDE3NzA5NiwxOTcwODUyNTg3LDIwMD
+QyMjUzMTYsMTk3OTA4MzQ0NV19
 -->
