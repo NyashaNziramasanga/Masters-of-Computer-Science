@@ -94,7 +94,10 @@ Impact of event occurring measured as a score :
 Risk shall be calculated as follow:
 ||Impact|
 |---|---|
-|||
+|Threat Likelihood||
+|High (1.0)||
+|Moderate (0.5)||
+|Low (0.1)||
 
 
 ### 3.1.3 Identified Risks
@@ -124,6 +127,6 @@ Kontrol4 host there web applications and databases on Microsoft Azure Cloud Plat
 - [Reference 1](https://minerva-access.unimelb.edu.au/bitstream/handle/11343/33345/300314_2013_Tan_Risk.pdf?sequence=1&isAllowed=y)
 - [Reference 2 - PCI data security standards](http://www.umanitoba.ca/admin/financial_services/media/PCI_DSS_Compliance_FinalNov_01_-_PDF.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE4ODI0OTgsMjAwNDIyNTMxNiwxOT
-c5MDgzNDQ1XX0=
+eyJoaXN0b3J5IjpbMTc1OTQ0MDI5MywyMDA0MjI1MzE2LDE5Nz
+kwODM0NDVdfQ==
 -->
