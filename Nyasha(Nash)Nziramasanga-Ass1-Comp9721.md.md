@@ -88,7 +88,7 @@ Impact of event occurring measured as a score :
 | Impact (Score) | Definition                                                                     |
 | -------------- | ------------------------------------------------------------------------------ |
 | High (100)     | - Major Damage to company assets and operations, with potential financial and loss in reputation|
-| Moderate (50)  | Significant loss and degradation to company assets                             |
+| Moderate (50)  | Significant loss and degradation to company assets and operations                            |
 | Low (10)       | Minor damage to company assets and minimal financial loss                      |
 
 ### 3.1.3 Identified Risks
@@ -120,6 +120,6 @@ Kontrol4 host there web applications and databases on Microsoft Azure Cloud Plat
 - [Reference 1](https://minerva-access.unimelb.edu.au/bitstream/handle/11343/33345/300314_2013_Tan_Risk.pdf?sequence=1&isAllowed=y)
 - [Reference 2 - PCI data security standards](http://www.umanitoba.ca/admin/financial_services/media/PCI_DSS_Compliance_FinalNov_01_-_PDF.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNDEyNTY1NywyMDA0MjI1MzE2LDE5Nz
-kwODM0NDVdfQ==
+eyJoaXN0b3J5IjpbLTE0MjczOTY2MjYsMjAwNDIyNTMxNiwxOT
+c5MDgzNDQ1XX0=
 -->
