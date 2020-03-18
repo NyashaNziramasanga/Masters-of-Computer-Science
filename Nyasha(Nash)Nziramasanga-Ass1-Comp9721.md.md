@@ -79,15 +79,15 @@ Threat event likelihood definition:
 
 | Likelihood (Weight) | Definition                                                                |
 | ------------------- | ------------------------------------------------------------------------- |
-| High (1.0)          | Threat event is highly likely to occur, with no controls to prevent vul|
-| Moderate (0.5)      | Threat event can occur, however controls are in place to impede event     |
+| High (1.0)          | Threat event is highly likely to occur, with no controls to prevent vulnerability being exploited|
+| Moderate (0.5)      | Threat event can occur, however controls are in place to impede an attack event     |
 | Low (0.1)           | Threat event likely wont occur, and controls are in place to impede event |
 
 Impact of event occurring measured as a score :
 
 | Impact (Score) | Definition                                                                     |
 | -------------- | ------------------------------------------------------------------------------ |
-| High (100)     | Major Damage to company assets, with potential financial and reputational loss |
+| High (100)     | - Major Damage to company assets, with potential financial and reputational loss |
 | Moderate (50)  | Significant loss and degradation to company assets                             |
 | Low (10)       | Minor damage to company assets and minimal financial loss                      |
 
@@ -120,5 +120,5 @@ Kontrol4 host there web applications and databases on Microsoft Azure Cloud Plat
 - [Reference 1](https://minerva-access.unimelb.edu.au/bitstream/handle/11343/33345/300314_2013_Tan_Risk.pdf?sequence=1&isAllowed=y)
 - [Reference 2 - PCI data security standards](http://www.umanitoba.ca/admin/financial_services/media/PCI_DSS_Compliance_FinalNov_01_-_PDF.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjgwMjM2NCwxOTc5MDgzNDQ1XX0=
+eyJoaXN0b3J5IjpbMjAwNDIyNTMxNiwxOTc5MDgzNDQ1XX0=
 -->
