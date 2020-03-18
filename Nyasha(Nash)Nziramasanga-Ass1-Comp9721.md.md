@@ -75,7 +75,7 @@ For determining risk for K4, the following risk model is utilized:
 Risk = Threat Event Likelihood X Impact of Event Occurring
 ```
 
-Threat Event Likelihood definition:
+Threat event likelihood definition:
 
 | Likelihood (Weight) | Definition                                                                |
 | ------------------- | ------------------------------------------------------------------------- |
@@ -120,5 +120,5 @@ Kontrol4 host there web applications and databases on Microsoft Azure Cloud Plat
 - [Reference 1](https://minerva-access.unimelb.edu.au/bitstream/handle/11343/33345/300314_2013_Tan_Risk.pdf?sequence=1&isAllowed=y)
 - [Reference 2 - PCI data security standards](http://www.umanitoba.ca/admin/financial_services/media/PCI_DSS_Compliance_FinalNov_01_-_PDF.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTA4MzQ0NV19
+eyJoaXN0b3J5IjpbMTEwNTc3MzMwMSwxOTc5MDgzNDQ1XX0=
 -->
