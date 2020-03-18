@@ -83,7 +83,7 @@ Threat event likelihood definition:
 | Moderate (0.5)      | Threat event can occur, however controls are in place to impede event     |
 | Low (0.1)           | Threat event likely wont occur, and controls are in place to impede event |
 
-Impact of Event Occurring measured as a score :
+Impact of event occurring measured as a score :
 
 | Impact (Score) | Definition                                                                     |
 | -------------- | ------------------------------------------------------------------------------ |
@@ -120,5 +120,5 @@ Kontrol4 host there web applications and databases on Microsoft Azure Cloud Plat
 - [Reference 1](https://minerva-access.unimelb.edu.au/bitstream/handle/11343/33345/300314_2013_Tan_Risk.pdf?sequence=1&isAllowed=y)
 - [Reference 2 - PCI data security standards](http://www.umanitoba.ca/admin/financial_services/media/PCI_DSS_Compliance_FinalNov_01_-_PDF.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTc3MzMwMSwxOTc5MDgzNDQ1XX0=
+eyJoaXN0b3J5IjpbLTUzMTY3NjQ5MSwxOTc5MDgzNDQ1XX0=
 -->
