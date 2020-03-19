@@ -11,7 +11,7 @@ Trends that lead to cloud computing:
 
 Examples:
 
-- Platform as a service (PAAS)
+- Platform as a Service (PAAS)
 - Software as a Service (SAAS)
 - Infrastructure as a Service (IAAS)
 
@@ -26,3 +26,29 @@ Examples:
 - Security, Resilience & Recovery
 
 ![Cloud Computing](images/cloud-computing.png)
+
+---
+
+Conventional Vs Cloud Computing
+
+| Conventional                   | Cloud                |
+| ------------------------------ | -------------------- |
+| Manually provisioned           | Self-provisioned     |
+| Dedicated hardware             | Shared hardware      |
+| Fixed capacity                 | Elastic capacity     |
+| Pay for capacity               | Pay for use          |
+| Capital & operational expenses | Operational expenses |
+| Managed via sysadmins          | Managed via APIs     |
+
+## Characteristics of Cloud
+
+- Elasticity & ability to scale up and down
+- Shared/pooled resources
+- Broad network access
+- Self-service provisioning
+  - Automatic allocation of resource & deprovisioning
+- Application Programming Interfaces (APIs)
+- Billing & metering of service usage
+  (Pay-as-you-go model)
+
+**Load Balancing** - Distributing workload across multiple servers or data centres, network links, central processing units, disk drives, on the cloud. Efficiently Distributing Incoming Network Traffic Across a Group of Backend Servers
