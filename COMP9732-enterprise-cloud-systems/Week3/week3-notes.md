@@ -52,3 +52,15 @@ Conventional Vs Cloud Computing
   (Pay-as-you-go model)
 
 **Load Balancing** - Distributing workload across multiple servers or data centres, network links, central processing units, disk drives, on the cloud. Efficiently Distributing Incoming Network Traffic Across a Group of Backend Servers
+
+## Software as a Service (SAAS)
+
+Running an application on the cloud targeted for the end user e.g. GDrive, Gmail etc
+
+## Platform as a Service (PAAS)
+
+Application developers looking to work on coding there application e.g. google app engine
+
+## Infrastructure as a Service (IAAS)
+
+Virtual machines running in the cloud e.g. amazon EC2
