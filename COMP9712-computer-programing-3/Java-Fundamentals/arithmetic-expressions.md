@@ -55,14 +55,28 @@ int y = (int)x + 2;
 
 ```java
 // Round up
-Math.round()
+Math.round(1.1F) //1
 
 // Highest whole integer, might need to cast
-Math.ceil()
+(int)Math.ceil(1.1F) //2
 
 // Lowest whole integer, might need to cast
-Math.floor()
+Math.floor(1.1F) //1
+
+// Returns the greater of two values
+Math.max(1,2) //2
+
+// Generating a random value between 0 and 1
+Math.random()
+(int) (Math.random() * 100) //number between 0 and 100
+```
+
+## Formatting Numbers
+
+```java
+// Use getCurrencyInstance() and store in a NumberFormat currency variable
+NumberFormat currency = NumberFormat.getCurrencyInstance()
+String result = currency.format(123456.89)
 
 
-Math.max()
 ```
