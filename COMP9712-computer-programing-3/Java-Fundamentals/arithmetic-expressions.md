@@ -77,6 +77,4 @@ Math.random()
 // Use getCurrencyInstance() and store in a NumberFormat currency variable
 NumberFormat currency = NumberFormat.getCurrencyInstance()
 String result = currency.format(123456.89)
-
-
 ```
