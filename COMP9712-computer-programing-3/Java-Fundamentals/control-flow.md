@@ -87,5 +87,4 @@ switch (role) {
   default:
     System.out.println("You are an guest")
 }
-
 ```
