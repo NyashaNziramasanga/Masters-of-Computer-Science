@@ -60,6 +60,8 @@ else if (){
 
 ## Ternary Operator
 
+Using `?:` which is `?` - if true execute `:` else do this instead
+
 ```java
 // If income is greater than 100_000 then return "First" else return "Economy"
 int income = 120_000;
@@ -67,3 +69,23 @@ String className = income > 100_000 ? "First" : "Economy";
 ```
 
 ## Switch Statements
+
+Execute different parts of the code based on different expressions
+
+```java
+String role = "admin";
+
+switch (role) {
+  case "admin":
+    System.out.println("You are an admin")
+    break;
+
+  case "moderator":
+    System.out.println("You are an moderator")
+    break;
+
+  default:
+    System.out.println("You are an guest")
+}
+
+```
