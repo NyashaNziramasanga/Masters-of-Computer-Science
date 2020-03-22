@@ -1,5 +1,10 @@
 # Loops
 
+- [For loop](##For%20loop)
+- [While loop](##While%20loop)
+- [Do While loop](##Do%20While20%loop)
+- [For-Each loop](##For-Each%20loop)
+
 ## For loop
 
 Used when we **know** how many iterations
@@ -14,7 +19,7 @@ for (int i = 0; i < 5; i++){
 - `i < 5` - Evaluates condition
 - `i++` - Iterates by 1
 
-## While loops
+## While loop
 
 Used when we **don't know** how many iterations
 
@@ -40,6 +45,25 @@ do {
   System.out.print("Input: ");
   input = scanner.next().toLowerCase();
   System.out.println(input);
-  
+
 } while (!input.equals("quit"));
+```
+
+Tips:
+
+- If using `while(true)` loop always include a `break` statement
+- `continue` goes back to start of loop and starts again
+- `break`
+
+## For-Each loop
+
+Iterate over arrays or collections
+
+```java
+String[] fruits  = { "Apple", "Mango", "Orange"};
+
+// Declare a String variable of fruit and include fruits array
+for (String fruit : fruits){
+  System.out.println(fruit);
+}
 ```
