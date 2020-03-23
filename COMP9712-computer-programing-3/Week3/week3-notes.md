@@ -102,6 +102,6 @@ return -1;
 
 ### 3. Boyer-Moore Algorithm
 
-### 4. Knuth-Morris-Pratt Algorithm
+### 4. Knuth-Morris-Pratt (KMP) Algorithm
 
 ### 5. Rabin-Karp
