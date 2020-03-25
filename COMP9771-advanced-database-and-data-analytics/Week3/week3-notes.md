@@ -32,7 +32,9 @@ measures.
 
 ## Overview of database design Methodology
 
-### 1. Build Conceptional Data Model
+---
+
+### 1. Conceptional Data Model
 
 Steps:
 
@@ -86,3 +88,42 @@ Steps:
 ### ER Diagram
 
 ![er-diagram](images/er-diagram.png)
+
+---
+
+## 2.Logical Database Design
+
+Process of constructing a model of the
+data used in an enterprise based on a specific
+data model (e.g. relational), but independent
+of a particular DBMS and other physical
+considerations.
+
+## Build and Validate Logical Data Model
+
+Steps:
+
+### 1. Derive relations for logical data model
+
+- Strong entity types
+- Weak entity types
+- One to many (1:\*) binary relationship types
+- One to one (1:1) binary relationship types
+  - Mandatory participation on both sides of 1:1 relationship
+  - Mandatory participation on one side of a 1:1 relationship
+  - Optional participation on both sides of a 1:1 relationship
+- One-to-one (1:1) recursive relationships
+- Superclass/subclass relationship types
+- Many-to-many (_:_) binary relationship types
+- Complex relationship types
+- Multi-valued attributes
+
+### 3. Validate relations using normalization
+
+### 4. Validate relations against user transactions
+
+### 5. Check integrity constraints
+
+### 6. Review logical data model with user
+
+### 7. Merge logical data models into global Model (optional step)
