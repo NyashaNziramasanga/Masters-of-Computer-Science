@@ -136,6 +136,24 @@ Examples of On-line algorithms:
 
 ### 3. Boyer-Moore Algorithm
 
+**Looking-glass heuristic**: Compare P with a subsequence of T moving backwards (Start at the end and move backwards)
+
+**Character-jump heuristic** - When a mismatch occurs at T[i] = c
+
+- If P contains c, shift P to align the last occurrence of c in P with T[i]
+- Else, shift P to align P[0] with T[i + 1]
+
+![boyer-moore-strings-search](images/boyer-moore-strings-search.gif)
+
+last occurrence table, fir each char of the alphabet, store its last occurrence from left to right in the pattern, thus tells us where to shit to
+
+![last-occurrence-table](images/last-occurrence-table.png)
+stored as hashmap
+
+![boyer-moore-algorithm](images/boyer-moore-algorithm.png)
+
+![boyer-moore-algorithm2](images/boyer-moore-algorithm2.png)
+
 ### 4. Knuth-Morris-Pratt (KMP) Algorithm
 
 ### 5. Karp-Rabin
