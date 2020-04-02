@@ -156,4 +156,6 @@ stored as hashmap
 
 ### 4. Knuth-Morris-Pratt (KMP) Algorithm
 
+pg 65
+
 ### 5. Karp-Rabin
