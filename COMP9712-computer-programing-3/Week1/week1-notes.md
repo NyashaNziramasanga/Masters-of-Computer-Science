@@ -38,13 +38,13 @@ Used to describe the performance of an algorithm, to determine if the algorithm 
 
 ## Types of Complexities
 
-| Complexity               | Big O       |
-| ------------------------ | ----------- |
-| Linear Complexity        | `O (n)`     |
-| Logarithmic Complexity   | `O (log N)` |
-| Constant Time Complexity | `O (1)`     |
-| Quadratic Complexity     | `O (N^2)`   |
-| Exponential Complexity   | `O (2^N)`   |
+| Complexity             | Big O       |
+| ---------------------- | ----------- |
+| Linear Complexity      | `O (n)`     |
+| Logarithmic Complexity | `O (log N)` |
+| Constant Complexity    | `O (1)`     |
+| Quadratic Complexity   | `O (N^2)`   |
+| Exponential Complexity | `O (2^N)`   |
 
 ![big-o-time-complexities](images/big-o-time-complexities.png)
 
@@ -82,7 +82,7 @@ In a `sorted` array we can use a `binary search` which search's a sorted array b
 >
 > Using Sequential Search : **1 million Comparisons**
 
-### 3.Constant Time Complexity `O (1)`
+### 3.Constant Complexity `O (1)`
 
 Most efficient no matter how big the array is it will always take the same amount of time
 e.g. Looking up a element in an array by its index
