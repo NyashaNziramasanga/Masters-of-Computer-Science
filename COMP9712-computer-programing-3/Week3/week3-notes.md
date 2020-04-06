@@ -156,6 +156,16 @@ stored as hashmap
 
 ### 4. Knuth-Morris-Pratt (KMP) Algorithm
 
-pg 65
+Pattern matching algorithm use case searching a word in a word doc
+
+Improved on brute force, time complexity worst case `O(n * m)`
+
+Failure table/Prefix table indicates the number of skips we can make if there are similar patterns has a space complexity of `O (m)`
+
+![kmp-string-search-algorithm](images/kmp-string-search-algorithm.gif)
 
 ### 5. Karp-Rabin
+
+## Resources
+
+- [Algorithm Visualisations](https://people.ok.ubc.ca/ylucet/DS/KnuthMorrisPratt.html)
