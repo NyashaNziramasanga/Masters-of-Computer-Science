@@ -166,6 +166,14 @@ Failure table/Prefix table indicates the number of skips we can make if there ar
 
 ### 5. Karp-Rabin
 
+makes use of hash functions and the rolling hash technique. A hash function is essentially a function that maps one thing to a value. In particular, hashing can map data of arbitrary size to a value of fixed size
+
+Calculate hash values of string and if hashes match compare string values
+
+### Algorithm Comparison
+
+![algorithm-comparison](images/algorithm-comparison.png)
+
 ## Resources
 
 - [Algorithm Visualisations](https://people.ok.ubc.ca/ylucet/DS/KnuthMorrisPratt.html)
