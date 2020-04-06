@@ -1,6 +1,6 @@
-# 👨‍💻 Masters of Computer Science Notes 👨‍💻
+# 📚 Masters of Computer Science Notes 💻
 
-Notes on masters of computer science course
+Masters of Computer Science course notes
 
 ## 2020 Topics
 
