@@ -162,3 +162,19 @@ Compressed Suffix Tree:
 
 - More space is needed to store large collections
 - It takes a long time to construct
+
+### Tries vs Suffix Trees
+
+When to use Tries:
+
+- Use when you know what exact pattern your looking for e.g. word search, DNA sequences,8-bit binary sequences and whole sentences
+- You can chop target into chunks
+- Other uses of tries text prediction and implementing a dictionary
+
+When to use Suffix Trees:
+
+- You don't know exactly what kinds of patterns you are looking for e.g. Arbitrary substrings of English text, Arbitrary chunks of binary, DNA, musical notes etc
+
+## Resources
+
+- [DS and A visualization](https://people.ok.ubc.ca/ylucet/DS/Algorithms.html)
