@@ -1,6 +1,7 @@
 # Data Structures
 
 - [Arrays](##Arrays)
+- [ArrayList](##ArrayList)
 
 ## Arrays
 
@@ -24,4 +25,33 @@ public static void main(String[] args){
   // Converts memory location to string
   Arrays.toString(numbers)
 }
+```
+
+---
+
+## ArrayList
+
+```java
+import java.util.ArrayList;
+...
+// Array list with a generic parameter, type is String
+ArrayList<Integer> list = new ArrayList<>();
+
+// Adds 10 to index 0
+list.add(10)
+
+// Removes value at index 0
+list.remove(0);
+
+// Return the index of value
+list.indexOf(10);
+
+// Returns True/False if value is in array
+list.contains(20);
+
+// Number of items in the array
+list.size();
+
+// Converts list to a regular array
+list.toArray();
 ```
