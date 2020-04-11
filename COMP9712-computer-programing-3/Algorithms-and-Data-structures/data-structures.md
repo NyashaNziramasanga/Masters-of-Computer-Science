@@ -1,13 +1,16 @@
 # Data Structures
 
 - [Arrays](##Arrays)
-- [ArrayList](##ArrayList)
+  - [ArrayList](###ArrayList)
+- [Linked Lists](##Linked%20Lists)
 
 ## Arrays
 
+![array](images/array.png)
+
 Used to store a list of items sequentially in memory
 
-| Array function | Big O            |
+| Array Function | Big O            |
 | -------------- | ---------------- |
 | Lookup         | `O (1)` Constant |
 | Insert         | `O (n)` Linear   |
@@ -29,7 +32,7 @@ public static void main(String[] args){
 
 ---
 
-## ArrayList
+### ArrayList
 
 ```java
 import java.util.ArrayList;
@@ -54,4 +57,56 @@ list.size();
 
 // Converts list to a regular array
 list.toArray();
+```
+
+---
+
+## Linked Lists
+
+- Store a list of objects in sequence
+- Unlike arrays can grow and shrink automatically
+
+![linked-list](images/linked-list.png)
+
+The time complexity of the list:
+
+| Linked List Function      | Big O            |
+| ------------------------- | ---------------- |
+| Lookup by Value & Index   | `O (n)` Linear   |
+| Insert at the end         | `O (1)` Constant |
+| Insert at the beginning   | `O (1)` Constant |
+| Insert in the middle      | `O (n)` Linear   |
+| Delete from the end       | `O (n)` Linear   |
+| Delete from the beginning | `O (1)` Constant |
+| Delete from the middle    | `O (n)` Linear   |
+
+```java
+import java.util.ArrayList;
+...
+// Linked list with a Integer class
+LinkList list = new LinkedList();
+
+// Added 10 to the last node of the linked list
+list.addLast(10);
+
+// Add to the beginning of the list
+list.addFirst(5);
+
+// Remove last node
+list.removeLast();
+
+// Remove from index 0
+list.remove(0)
+
+// List contains value 10
+list.contains(10);
+
+// Size of the list
+list.size();
+
+// Convert to array
+list.toArray();
+
+
+
 ```
