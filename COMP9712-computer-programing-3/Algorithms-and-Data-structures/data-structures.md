@@ -106,7 +106,4 @@ list.size();
 
 // Convert to array
 list.toArray();
-
-
-
 ```
