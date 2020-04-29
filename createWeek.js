@@ -14,29 +14,49 @@ const isDirectory = (fileName) => {
 fs.readdir(directoryPath, (err, files) => {
   const folders = files.filter(isDirectory);
 
-  const listOfFolders = [];
+  const listOfCourses = [];
   //listing all Folders
   folders.forEach((folder) => {
-    listOfFolders.push({ title: folder });
+    listOfCourses.push({ title: folder, value: folder });
   });
 
-  (async () => {
-    const response = await prompts({
-      type: 'select',
-      name: 'value',
-      message: 'Pick a folder',
-      choices: listOfFolders,
-    });
+  if (err) throw `Unable to scan directory: ${err}`;
 
+  const questions = [
+    {
+      type: 'select',
+      name: 'courseFolderName',
+      message: 'Pick a course',
+      choices: listOfCourses,
+    },
+    {
+      type: 'number',
+      name: 'weekNumber',
+      message: 'Enter a week by number [0-1]',
+    },
+    {
+      type: 'text',
+      name: 'weekSlug',
+      message: 'Enter a this weeks topic as a slug [intro-to-it]',
+    },
+  ];
+  // Ask questions to get information for the creating files directory
+  (async () => {
+    const response = await prompts(questions);
     console.log(response);
   })();
 
-  if (err) throw `Unable to scan directory: ${err}`;
+  // Create folder Week x and add week number and name
+
+  // try {
+  //   if (!fs.existsSync(dir)) {
+  //     fs.mkdirSync(dir);
+  //   }
+  // } catch (err) {
+  //   console.error(err);
+  // }
 });
 
-// Choose COMP directory
-// Create folder Week x and add week number and name
-// Enter week folder
 // Create images folder
 // Created week x notes.md
 // Commit to GitHub
