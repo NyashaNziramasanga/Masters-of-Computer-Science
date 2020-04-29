@@ -12,8 +12,8 @@ use Relational Algebra queries to check strategies
 
 **Query Decomposition** - Transforming high level queries into Relation Algebra query and check that query is syntactically and semantically correct. Typical stages are:
 
-- analysis
-- normalization
-- semantic analysis
-- simplification
-- query restructuring
+- Analysis - analyse query syntactically using compiler techniques, verify relations, attributes and operation
+- Normalization - Converts query into a normalized form for easier manipulation
+- Semantic analysis -
+- Simplification
+- Query restructuring
