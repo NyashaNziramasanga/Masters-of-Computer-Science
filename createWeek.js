@@ -63,8 +63,8 @@ fs.readdir(directoryPath, (err, files) => {
       fs.writeFile(notesFilePath, response.weekFolderName, () => {
         if (err) throw err;
         console.log(notesFilePath);
-        console.log(`✅ week${response.weekNumber} file created.
-      🔥 Set up completed 🔥`);
+        console.log(`✅ week${response.weekNumber} file created.`);
+        console.log('🔥 Set up completed 🔥');
       });
     });
   })();
