@@ -14,6 +14,6 @@ use Relational Algebra queries to check strategies
 
 - Analysis - analyse query syntactically using compiler techniques, verify relations, attributes and operation
 - Normalization - Converts query into a normalized form for easier manipulation
-- Semantic analysis -
-- Simplification
+- Semantic analysis - Reject normalized queries that are incorrectly formulated or contradictory
+- Simplification - detects redundant qualifications, eliminates common sub-expressions
 - Query restructuring
