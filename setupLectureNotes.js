@@ -55,7 +55,6 @@ fs.readdir(directoryPath, (err, files) => {
 
     const imageFolderPath = `${coursePath}/images`;
     const notesFilePath = `${coursePath}/week${response.weekNumber}-notes.md`;
-    // Create folder with the Week number and slug
 
     createFolderAndFile(
       imageFolderPath,
@@ -74,6 +73,7 @@ const createFolderAndFile = (
   coursePath,
   response
 ) => {
+  // Create folder with the Week number and slug
   fs.mkdir(coursePath, () => {
     console.log(`✅ ${weekFolderName} has been created`);
     // Create images folder
