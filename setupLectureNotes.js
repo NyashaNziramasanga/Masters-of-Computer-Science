@@ -56,21 +56,35 @@ fs.readdir(directoryPath, (err, files) => {
     const imageFolderPath = `${coursePath}/images`;
     const notesFilePath = `${coursePath}/week${response.weekNumber}-notes.md`;
     // Create folder with the Week number and slug
-    fs.mkdir(coursePath, () => {
-      console.log(`✅ ${weekFolderName} has been created`);
-      // Create images folder
-      fs.mkdir(imageFolderPath, () => {
-        console.log(`✅Image folder created.`);
-      });
-      // Creates week-notes.md file
-      fs.writeFile(notesFilePath, weekFolderName, () => {
-        if (err) throw err;
-        console.log(notesFilePath);
-        console.log(`✅ week${response.weekNumber} file created.`);
-        console.log('🔥 Set up completed 🔥');
-      });
-    });
+
+    createFolderAndFile(
+      imageFolderPath,
+      notesFilePath,
+      weekFolderName,
+      coursePath,
+      response
+    );
   })();
 });
 
-// Commit to GitHub
+const createFolderAndFile = (
+  imageFolderPath,
+  notesFilePath,
+  weekFolderName,
+  coursePath,
+  response
+) => {
+  fs.mkdir(coursePath, () => {
+    console.log(`✅ ${weekFolderName} has been created`);
+    // Create images folder
+    fs.mkdir(imageFolderPath, () => {
+      console.log(`✅Image folder created.`);
+    });
+    // Creates week-notes.md file
+    fs.writeFile(notesFilePath, `# ${weekFolderName}`, (err) => {
+      if (err) throw err;
+      console.log(`✅ Week ${response.weekNumber} file created.`);
+      console.log('🔥 Set up completed 🔥');
+    });
+  });
+};
