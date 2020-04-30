@@ -1,5 +1,8 @@
 /**
- *
+ *  Sets up the following folder structure for the week :
+ * Week1-test
+ * |- images
+ * |- Week1-notes.md
  * */
 const path = require('path');
 const fs = require('fs');
@@ -59,8 +62,8 @@ fs.readdir(directoryPath, (err, files) => {
       fs.mkdir(imageFolderPath, () => {
         console.log(`✅Image folder created.`);
       });
-      // Created week.notes.md file
-      fs.writeFile(notesFilePath, response.weekFolderName, () => {
+      // Creates week-notes.md file
+      fs.writeFile(notesFilePath, weekFolderName, () => {
         if (err) throw err;
         console.log(notesFilePath);
         console.log(`✅ week${response.weekNumber} file created.`);
@@ -70,5 +73,4 @@ fs.readdir(directoryPath, (err, files) => {
   })();
 });
 
-// Created week x notes.md
 // Commit to GitHub
