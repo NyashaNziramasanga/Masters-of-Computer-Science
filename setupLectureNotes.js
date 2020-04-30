@@ -78,7 +78,7 @@ const createFolderAndFile = (
     console.log(`✅ ${weekFolderName} has been created`);
     // Create images folder
     fs.mkdir(imageFolderPath, () => {
-      console.log(`✅Image folder created.`);
+      console.log(`✅ Image folder created.`);
     });
     // Creates week-notes.md file
     fs.writeFile(notesFilePath, `# ${weekFolderName}`, (err) => {
