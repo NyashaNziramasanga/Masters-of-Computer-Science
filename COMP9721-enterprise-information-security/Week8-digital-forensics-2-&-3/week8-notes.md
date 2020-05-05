@@ -2,6 +2,8 @@
 
 ---
 
+## PART 1 : Metadata
+
 ## What is digital forensics
 
 Forensic science - art of applying science to legal questions
@@ -51,3 +53,19 @@ Common algorithms are MD5 and SHA-256
 ### Disk Images
 
 - Exact copies of drive, source should never be processed directly and disk images can be checksumed
+
+---
+
+## PART 2 : Forensic Tools
+
+![forensic-tools](images/forensic-tools.png)
+
+## Exif tool
+
+![exif-tool](images/exif-tool.png)
+
+### Metadata Vulnerability
+
+As the images have been processed in different ways the metadata has changed in significant ways, image below show lines of metadata
+
+![metadata-vulnerability](images/metadata-vulnerability.png)
