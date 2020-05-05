@@ -95,3 +95,7 @@ Program that extracts features such as email addresses, credit card numbers, URL
 ## [Grepwin](https://sourceforge.net/projects/grepwin/)
 
 Regular expression software to search files for that regular pattern
+
+## [The Sleuth Kit (autopsy)](https://www.sleuthkit.org/)
+
+GUI-based program that allows you to efficiently analyze hard drives and smart phones.
