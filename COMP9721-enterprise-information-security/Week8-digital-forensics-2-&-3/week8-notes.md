@@ -87,3 +87,11 @@ Viewing sequence of files that create a word documents
 ## [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-4-2-0)
 
 Used for imaging disks
+
+## [Bulk_extractor](https://tools.kali.org/forensics/bulk-extractor)
+
+Program that extracts features such as email addresses, credit card numbers, URLs, and other types of information from digital evidence files
+
+## [Grepwin](https://sourceforge.net/projects/grepwin/)
+
+Regular expression software to search files for that regular pattern

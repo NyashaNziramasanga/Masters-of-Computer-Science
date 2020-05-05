@@ -15,6 +15,9 @@ const isDirectory = (fileName) => {
 };
 
 fs.readdir(directoryPath, (err, files) => {
+  if (err) throw `Unable to scan directory: ${err}`;
+  if (!files) throw 'No file was found';
+
   const folders = files.filter(isDirectory);
 
   const listOfCourses = [];
@@ -22,8 +25,6 @@ fs.readdir(directoryPath, (err, files) => {
   folders.forEach((folder) => {
     listOfCourses.push({ title: folder, value: folder });
   });
-
-  if (err) throw `Unable to scan directory: ${err}`;
 
   const questions = [
     {
@@ -75,7 +76,7 @@ const createFolderAndFile = (
 ) => {
   // Create folder with the Week number and slug
   fs.mkdir(coursePath, () => {
-    console.log(`✅ ${weekFolderName} has been created`);
+    console.log(`✅ ${weekFolderName} has been created.`);
     // Create images folder
     fs.mkdir(imageFolderPath, () => {
       console.log(`✅ Image folder created.`);
