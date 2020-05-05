@@ -60,7 +60,9 @@ Common algorithms are MD5 and SHA-256
 
 ![forensic-tools](images/forensic-tools.png)
 
-## Exif tool
+## [Exif tool](https://exiftool.org/)
+
+Metadata discovery tool
 
 ![exif-tool](images/exif-tool.png)
 
@@ -69,3 +71,19 @@ Common algorithms are MD5 and SHA-256
 As the images have been processed in different ways the metadata has changed in significant ways, image below show lines of metadata
 
 ![metadata-vulnerability](images/metadata-vulnerability.png)
+
+## Checksums - [Fileverifier ++](https://sourceforge.net/projects/fileverifier/)
+
+## [Regripper](https://tools.kali.org/forensics/regripper)
+
+Rip files from the hive files
+
+## Unpacking hidden word files
+
+Viewing sequence of files that create a word documents
+
+![hidden-word-files](images/hidden-word-files.png)
+
+## [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-4-2-0)
+
+Used for imaging disks
