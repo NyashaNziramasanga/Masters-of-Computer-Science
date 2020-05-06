@@ -3,6 +3,12 @@
 - [Arrays](##Arrays)
   - [ArrayList](###ArrayList)
 - [Linked Lists](##Linked%20Lists)
+- [Trees]
+- [Hash]
+- [Trie]
+  - SuffixTrie
+- [Trie]
+- [Graph]
 
 ## Arrays
 
