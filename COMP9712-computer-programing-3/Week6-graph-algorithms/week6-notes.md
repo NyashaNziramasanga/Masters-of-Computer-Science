@@ -79,3 +79,61 @@ The diagram above is **directed acyclic graph**
 - Connectedness i.e. computer network connections
 - Conflict i.e. concert/exam scheduling
 - Dependency - what depends on what
+
+---
+
+## Representation
+
+The two standard ways of representing graphs are :
+
+![graph-representation](images/graph-representation.png)
+
+### 1. Adjacency Lists
+
+Consists of an array of adjacent vertices lists. Has one list per vertex
+
+- Uses array and linked list data structures
+- Storage requirements, stores all edges and all vertices `O(V+E)`
+
+![adjacency-lists](images/adjacency-lists.png)
+
+#### Pros
+
+- Space-efficient, when a graph is sparse
+- Can be modified to support many graph variants
+
+#### Cons
+
+- Determining if an edge (u, v) G is not efficient.
+- Have to search in u’s adjacency list. O(degree(u)) time.
+- O(V) in the worst case.
+
+### 1. Adjacency Matrix
+
+Vertices X Vertices matrix Adjacency
+
+- 2 dimensional array in Java, matlab supports matrixes
+
+![adjacency-matrix](images/adjacency-matrix.png)
+
+#### Pros
+
+- Time to determine weather 2 vertices are connected (u, v) is `O(1)`.
+
+#### Cons
+
+- **Space** is always `O(V^2)` not memory efficient for large graphs
+  - Every case is like the worst case for adjacency list
+- **Time** to list all vertices adjacent to you is `O(V)`.
+
+### Time and Space Complexity comparison
+
+|                  | Space      | Edge T/F | All Edges |
+| ---------------- | ---------- | -------- | --------- |
+| Adjacency list   | `O(V+E)`\* | `O(V)`   | `O(V)`    |
+| Adjacency matrix | `O(V^2)`   | `O(1)`\* | `O(V)`    |
+
+- Adjacency lists good if graph is sparse: few edges
+- Adjacency matrix better if dense graph: lots of edges
+
+![performance-compared](images/performance-compared.png)
