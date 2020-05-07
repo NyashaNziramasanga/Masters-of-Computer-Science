@@ -1,5 +1,12 @@
 # Week7 Cloud Migrations
 
+- [Migration Considerations](##Migration%20Considerations)
+- [IBM Seven Patterns of Cloud Migration](##IBM%20Seven%20Patterns%20of%20Cloud%20Migration)
+- [Multi Cloud](##Multi%20Cloud)
+- [Cloud-enabled Application Types](##Cloud-enabled%20Application%20Types)
+- [Migration Patterns](##Migration%20Patterns)
+- [Cloud Optimized Strategies for Azure Migration](##Cloud%20Optimized%20Strategies%20for%20Azure%20Migration)
+
 ---
 
 ## Migration Considerations
