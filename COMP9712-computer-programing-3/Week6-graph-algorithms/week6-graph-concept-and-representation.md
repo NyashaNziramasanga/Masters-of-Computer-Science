@@ -1,5 +1,16 @@
 # Week6 Graph Algorithms
 
+- [Graph Concept](##Graph%20Concept)
+- [Concepts](##Concepts)
+- [When to use a graph](###When%20to%20use%20a%20graph)
+- [Relationships/Connections](###Relationships/Connections)
+- [Representation](##Representation)
+  - [Adjacency List](###1.%20Adjacency%20List)
+  - [Adjacency Matrix](###1.%20Adjacency%20Matrix)
+- [Time and Space Complexity comparison](###Time%20and%20Space%20Complexity%20comparison)
+
+---
+
 ## Graph Concept
 
 A graph is a set of vertices connected by a set of edges.
