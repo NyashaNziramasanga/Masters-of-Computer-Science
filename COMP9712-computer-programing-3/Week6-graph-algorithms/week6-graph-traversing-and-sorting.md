@@ -47,6 +47,6 @@ Standard graph-traversal/search algorithms are:
 - "Discovered" Vertex are marked
 - When all edges are explored the vertex is marked as "visited"
 
-### ### Psuedocode of DFS
+### Psuedocode of DFS
 
 ![bfs-algorithm](images/bfs-algorithm.png)
