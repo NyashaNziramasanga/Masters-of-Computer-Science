@@ -42,3 +42,11 @@ Standard graph-traversal/search algorithms are:
 ---
 
 ## Depth-First Search
+
+- Searches in the graph "as deep as possible first"
+- "Discovered" Vertex are marked
+- When all edges are explored the vertex is marked as "visited"
+
+### ### Psuedocode of DFS
+
+![bfs-algorithm](images/bfs-algorithm.png)
