@@ -70,3 +70,14 @@ The usage of multiple, independent cloud providers
 - **Multi-cloud Rebinding** - A re-architected application is deployed partially on multiple cloud environments and enables the application to continue to function using secondary deployment when there is a failure with the primary platform
 - **Replacement** - Individual capabilities in a re-architected solution are re-provisioned rather than re-engineered
 - **Multi-application Modernisation** - Different on-premise applications A1/A2, component C1 are re-architected as a portfolio and deployed on cloud environment
+
+## Cloud Optimized Strategies for Azure Migration
+
+Three approaches available:
+
+- **Rehost** - host the existing application to Azure with minimum efforts mainly IaaS solution
+- **Refactor** - To fit the application to the cloud with little changes mainly PaaS solution
+- **Rearchitect** - Offers characteristics like Availability, Reliability, Fault Tolerance
+- **Rebuild** - The application is built from scratch to use the Cloud Native features provided by the Cloud provider to the maximum extent
+
+![decision-tree](images/decision-tree.jpeg)
