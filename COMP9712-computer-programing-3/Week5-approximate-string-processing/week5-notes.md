@@ -20,3 +20,14 @@ Does string `GCTACTTCGCATATTACAGATCGCTACATTACG` contain a substring that is almo
 ## Edit distance
 
 Most efficient way to edit string _x_ so it becomes string _y_
+
+There are many ways to edit string _x_ to become string _y_:
+
+- Define **basic edit** operations
+- Assign **costs** to each basic edit operation
+- Choose the **sequence** of operations that has the lowest cost
+
+Most common operation:
+
+![operations](images/operations.png)
++match
