@@ -1,1 +1,22 @@
-# Week5-approximate-string-processing
+# Week5 Approximate String Processing
+
+Instead of matching a pattern against a text by finding the position in the text where the pattern occurs exactly.Find a substring or several substrings that are approximately the same as the pattern
+
+### Example
+
+Does string `GCTACTTCGCATATTACAGATCGCTACATTACG` contain a substring that is almost like `TACAGATGC`
+
+### Why it matters
+
+- Typing errors - leaving a letter,ordering etc
+- DNA matching - sometimes partials are available
+- Binary files - corrupted files
+
+### ASM methods can:
+
+- **Identify the string that was actually intended**, by finding the string from a list that is “closest” in some way to the one that was typed
+- **Identify a substring in the larger text** (DNA, Binary) that is “close” to the one that we’re looking for, and make the assumption that this is essentially the pattern we want,plus or minus some minor edits
+
+## Edit distance
+
+Most efficient way to edit string _x_ so it becomes string _y_
