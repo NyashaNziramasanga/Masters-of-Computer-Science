@@ -3,6 +3,7 @@
 - [Approximate String Matching](<##Approximate%20String%20Matching%20(ASM)>)
 - [Edit distance](##Edit%20distance)
 - [Common edit distance metrics](##Common%20edit%20distance%20metrics)
+- [Dynamic programming](##Dynamic%20programming)
 
 ---
 
@@ -44,9 +45,38 @@ Most common operation:
 
 ### Hamming Distance
 
+- Substitution: cost of 1
+- Insertion, Deletion, Transposition not defined
 - Works with string of **same length**
 - Originally invented for binary
 
 ![hamming-distance](images/hamming-distance.png)
 
 ### Levenshtein Distance
+
+- Insertion: 1
+- Deletion: 1
+- Substitution: 1
+- (Transposition not defined, or 2 Sub’s = 2)
+
+![levenshtein-distance](images/levenshtein-distance.png)
+
+### Edit-Distance-based approaches
+
+- Working out the edit distance between any two strings
+- Efficiently finding the string or substring with the lowest edit distance from the pattern
+
+---
+
+## Dynamic programming
+
+- Approach to algorithm design
+- Algorithm that builds up the best solution for a large problem by combining the best solutions for the sub-problems
+
+### Optimal Substructure/Criteria
+
+- **IF** a problem can be broken up into a **finite** set of sub-problems
+- **AND** the optimal solution for the large problem can always be composed from the optimal sub-solutions for
+  each of the sub-problems
+- **THEN** the problem has **optimal substructure**
+- **THEN** may be **solved** with Dynamic Programming
