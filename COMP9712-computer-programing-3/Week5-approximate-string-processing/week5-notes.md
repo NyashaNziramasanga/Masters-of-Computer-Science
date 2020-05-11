@@ -1,5 +1,13 @@
 # Week5 Approximate String Processing
 
+- [Approximate String Matching](<##Approximate%20String%20Matching%20(ASM)>)
+- [Edit distance](##Edit%20distance)
+- [Common edit distance metrics](##Common%20edit%20distance%20metrics)
+
+---
+
+## Approximate String Matching (ASM)
+
 Instead of matching a pattern against a text by finding the position in the text where the pattern occurs exactly.Find a substring or several substrings that are approximately the same as the pattern
 
 ### Example
@@ -31,3 +39,14 @@ Most common operation:
 
 ![operations](images/operations.png)
 +match
+
+## Common edit distance metrics
+
+### Hamming Distance
+
+- Works with string of **same length**
+- Originally invented for binary
+
+![hamming-distance](images/hamming-distance.png)
+
+### Levenshtein Distance
