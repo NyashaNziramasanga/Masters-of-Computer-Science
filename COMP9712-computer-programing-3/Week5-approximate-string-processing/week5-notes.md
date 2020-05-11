@@ -4,6 +4,8 @@
 - [Edit distance](##Edit%20distance)
 - [Common edit distance metrics](##Common%20edit%20distance%20metrics)
 - [Dynamic programming](##Dynamic%20programming)
+- [Dictionary matching with tries](##Dictionary%20matching%20with%20tries)
+- [The Longest Common Subsequence (LCS) Problem](<##The%20Longest%20Common%20Subsequence%20(LCS)%20Problem>)
 
 ---
 
