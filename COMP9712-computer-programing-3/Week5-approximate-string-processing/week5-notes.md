@@ -97,3 +97,7 @@ Most common operation:
   subsequence (LCS) problem is to find a longest
   subsequence common to both X and Y
 - Applications to DNA similarity testing
+
+![lcs-algorithm](images/lcs-algorithm.png)
+
+![lcs-visualised](images/lcs-visualised.png)
