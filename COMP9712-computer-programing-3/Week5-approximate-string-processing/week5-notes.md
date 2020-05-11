@@ -80,3 +80,5 @@ Most common operation:
   each of the sub-problems
 - **THEN** the problem has **optimal substructure**
 - **THEN** may be **solved** with Dynamic Programming
+
+![levenshtein-algorithm](images/levenshtein-algorithm.png)
