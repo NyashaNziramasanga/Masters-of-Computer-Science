@@ -82,3 +82,18 @@ Most common operation:
 - **THEN** may be **solved** with Dynamic Programming
 
 ![levenshtein-algorithm](images/levenshtein-algorithm.png)
+
+## Dictionary matching with tries
+
+- From the mistyped word X, generate all possible strings that are within distance k of X and try to find them in the trie (High time complexity)
+- For every word in the trie, generate all possible
+  misspellings of the word to within a distance of k And put them in the trie (High space complexity)
+
+- **Better option is to generate all possible misspellings of X but you do it in conjunction with the trie constrained by what is in the trie**
+
+## The Longest Common Subsequence (LCS) Problem
+
+- Given two strings X and Y, the longest common
+  subsequence (LCS) problem is to find a longest
+  subsequence common to both X and Y
+- Applications to DNA similarity testing
