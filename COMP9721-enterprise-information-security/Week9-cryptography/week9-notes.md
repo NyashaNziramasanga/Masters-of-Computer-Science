@@ -96,3 +96,23 @@ Some popular algorithms include:
 - RSA (Rivest-Shamir-Adleman)
 - PGP (Pretty Good Privacy)
 - GPG (an implementation of OpenPGP)
+
+---
+
+## Applications
+
+- Public Key Infrastructure (PKI)
+- Digital Signatures
+- Digital Certificates
+- Steganography (although technically means secret writing, modern interpretation is more about concealing data within digital images – using some of the unused bits of jpegs)
+- Secure Communication Protocols
+- Secure Hyper Text Transfer Protocol (S-HTTP)
+- Secure Sockets Layer (SSL)
+- Secure Multipurpose Internet Mail Extensions (S/MIME), Privacy Enhanced Mail (PEM), Pretty Good Privacy (PGP), GNU Privacy Guard (GPG)
+- IPSec (internet protocol security)
+
+## Attacks
+
+- Need to determine the type of systems in use
+- Brute-force
+- Deception
