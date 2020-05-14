@@ -38,3 +38,17 @@
 ### Security: Vendor Access
 
 Sensitive data processed outside the enterprise
+
+### Security: Regulatory Compliance
+
+- External audits
+
+### Security: Provider Viability
+
+- What happens when the provider is bought out, merges with another company or goes out of business?
+
+### Security: Data Recovery
+
+## Privacy
+
+### Australian Privacy Laws
