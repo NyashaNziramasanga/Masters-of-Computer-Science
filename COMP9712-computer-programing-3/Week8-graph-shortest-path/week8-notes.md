@@ -1,8 +1,11 @@
 # Week8 Graph Shortest Path
 
+- [Week8 Graph Shortest Path](#week8-graph-shortest-path)
   - [Applications of Graphs](#applications-of-graphs)
     - [Single-Source Shortest-Path](#single-source-shortest-path)
   - [Dijkstra Algorithm](#dijkstra-algorithm)
+  - [Dijkstra's Algorithm Example](#dijkstras-algorithm-example)
+    - [Why does this work?](#why-does-this-work)
 
 ---
 
@@ -27,3 +30,24 @@
 
 ![dijkstra's-algorithm](images/dijkstras-algorithm.png)
 
+## Dijkstra's Algorithm Example 
+
+![dijkstra's-algorithm-example](images/dijkstras-algo-example.png)
+
+- So when we choose a particular vertex, we can know that all other alternative paths to it that could have been considered are actually longer (and so have been terminated)
+
+For each vertex v in the graph, run Dijkstra’s algorithm with v as the source
+
+- Time complexity of Dijkstra = `O(V log V + E logV)`
+- Time complexity of V * Dijkstra = `O(V2 logV + V E logV)`
+- For a sparse graph, E ~ V, so `O(V2 logV)`
+- For a dense graph, E~ V2 so `O(V3 logV)`
+
+### Why does this work?
+
+- At each point, when we choose a vertex, we examine all its adjacent vertices, and insert the path length to get to each of them into the table
+- Multiple paths competing with
+each other in parallel
+- If one of these newly added paths is the best one, we continue on that path
+- So when we choose a particular vertex, we can know that all other alternative paths to it that could have been considered are actually longer (and so have been
+terminated)
