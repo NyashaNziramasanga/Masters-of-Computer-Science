@@ -6,6 +6,7 @@
   - [Dijkstra Algorithm](#dijkstra-algorithm)
   - [Dijkstra's Algorithm Example](#dijkstras-algorithm-example)
     - [Why does this work?](#why-does-this-work)
+  - [Resources](#resources)
 
 ---
 
@@ -51,3 +52,9 @@ each other in parallel
 - If one of these newly added paths is the best one, we continue on that path
 - So when we choose a particular vertex, we can know that all other alternative paths to it that could have been considered are actually longer (and so have been
 terminated)
+
+![dijkstra-shortest-path-algorithm.gif](images/dijkstra-shortest-path-algorithm.gif)
+
+## Resources
+
+- [Dijkstra Shortest Path Visualisation](https://www.cs.usfca.edu/~galles/visualization/Dijkstra.html)
