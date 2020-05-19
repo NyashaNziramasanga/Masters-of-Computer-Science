@@ -10,6 +10,9 @@
   - [Issues in Cryptography](#issues-in-cryptography)
   - [Solution Options](#solution-options)
   - [Applications of Cryptography](#applications-of-cryptography)
+  - [Encryption Techniques](#encryption-techniques)
+    - [SHIFT](#shift)
+    - [MASK](#mask)
 
 ---
 
@@ -70,3 +73,15 @@
   - S/FTP – makes use of underlying SSH2 protocol
   - WEP – not considered sufficiently effective any more
   - WPA/WPA2 – meets 802.11i WLAN security specification
+
+---
+
+## Encryption Techniques
+
+### SHIFT
+
+May take bit pattern and use SHIFT-LEFT or SHIFT-RIGHT by a number of places
+
+### MASK
+
+Involves using a known value and then applying that value using BIT operations such as AND, OR, XOR
