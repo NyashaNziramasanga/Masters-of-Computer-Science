@@ -8,6 +8,11 @@
     - [Problem Solving in the LifeCycle](#problem-solving-in-the-lifecycle)
   - [What are Systems](#what-are-systems)
   - [Enterprise Integration Frameworks](#enterprise-integration-frameworks)
+  - [Enterprise Application Integration (EAI)](#enterprise-application-integration-eai)
+    - [EAI Categories](#eai-categories)
+    - [EAI Challenges](#eai-challenges)
+  - [Enterprise Service Bus](#enterprise-service-bus)
+    - [ESB Functions](#esb-functions)
 
 ---
 
@@ -93,3 +98,41 @@ Set of integrated parts or elements that function together to form a complex who
   a single database
 
 - **Data Warehouse**, Used for Online Analytical Processing (OLAP). The OLAP server sits between a client & a database management systems (DBMS) & understands how data is organised in the database & has special functions for analysing the data
+
+## Enterprise Application Integration (EAI)
+
+- Is the use of software & computer systems
+  architectural principles to integrate a set of enterprise
+  computer applications
+- Provides unrestricted sharing of data & business
+  processes throughout the networked applications or
+  data sources in an organisation
+
+### EAI Categories
+
+- **Database Linking**: databases share information duplicate information as needed.
+
+- **Application Linking**: the enterprise shares business processes & data between two or more applications.
+
+- **Data Warehousing**: data is extracted from a variety of data sources & channelled into a specific database for analysis.
+
+- **Common Virtual System**: the pinnacle of EAI; all aspects of enterprise computing are tied together so that they appear as a unified application
+
+### EAI Challenges
+
+- Lack of standardisation
+- Vendor lock-in
+
+## Enterprise Service Bus
+
+- A Web Services-ware reincarnation of traditional EAI solutions. EAI & ESB are a driving force for centralisation
+- The multi-language & multi-platform design of an ESB allows enterprises to process data between applications from various sources.
+- ESB is also referred to as a message broker
+- An open standards-based distributed synchronous or asynchronous messaging middleware (also called ‘a message broker’) that provides secure interoperability between enterprise applications via XML, Web services interfaces & standardised rules-based routing of documents
+
+### ESB Functions
+
+- **Portability** is the ability to share the data between different systems/environments
+- **Transformation** of data from one format to another
+- **Load Balancing/Clustering**, ability to distribute processing among several devices
+- **Failover**, ability to transfer messaging functions to another server if one should fail during the data exchange. Identifies messages & routes them between applications & services
