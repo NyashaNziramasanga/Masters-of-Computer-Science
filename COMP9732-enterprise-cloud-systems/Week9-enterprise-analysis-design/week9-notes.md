@@ -1,5 +1,14 @@
 # Week9 Enterprise Analysis Design
 
+- [Week9 Enterprise Analysis Design](#week9-enterprise-analysis-design)
+  - [What is Analysis](#what-is-analysis)
+  - [BABOK](#babok)
+    - [Benefits of Enterprise Analysis Activities](#benefits-of-enterprise-analysis-activities)
+  - [Waterfall Model - Compare & Contrast](#waterfall-model---compare--contrast)
+    - [Problem Solving in the LifeCycle](#problem-solving-in-the-lifecycle)
+  - [What are Systems](#what-are-systems)
+  - [Enterprise Integration Frameworks](#enterprise-integration-frameworks)
+
 ---
 
 ## What is Analysis
@@ -66,3 +75,21 @@ Set of integrated parts or elements that function together to form a complex who
 **Systems Engineering** - A process that is concerned with specifying a system, integrating its components and testing that the system meets its requirements
 
 ---
+
+## Enterprise Integration Frameworks
+
+- **Application Programming Interfaces (API)**, A set of procedures that allow external applications to
+  connect to an application & obtain data or services and used to integrate systems
+
+- **Standardisation**, A formal specification to establish the technical requirements for the operation of a system e.g. HTML
+
+- **Data Integration Technologies**, Focus on integrating enterprise via data e.g. data warehouse
+
+- **Enterprise Integration Levels**,
+- **Extract Transform & Load**, Moving data from system A to system B may require data transformation to format
+- **Data Middleware**, Make a Data Middleware to handle data transformations e.g. database gateways to different databases, Take SQL & translate to specific database format & translate the results back for the client
+
+- **Centralised Database**, A collection of heterogeneous, component databases over which a global view of the data is created, so that the separate databases can be treated as if they were
+  a single database
+
+- **Data Warehouse**, Used for Online Analytical Processing (OLAP). The OLAP server sits between a client & a database management systems (DBMS) & understands how data is organised in the database & has special functions for analysing the data
