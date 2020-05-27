@@ -56,3 +56,28 @@ liabilities
 ## Copyright
 
 - Occurs through software license infringement e.g. infringement documents
+
+---
+
+## Issues and Social Impacts
+
+## Ethics and Ethical Behaviour
+
+- Ethical behaviour vs legal behaviour
+- Legal requirements are enforceable through the courts
+- Ethical requirements are mostly not enforced unless there are serious breaches
+- Ethics is based on : 
+  - The right thing to do 
+  - Morally correct
+  - Expected performance and treatment
+  - Observance of appropriate process
+  - Dealing with transactions in a confidential manner
+
+## major issues for IT professionals
+
+- **Privacy and confidentiality**, access to sensitive data e.g. financials, health data, client data etc
+
+- **Copyright**, infringement of software licenses
+- **Mis-use or illegal use**, using company resources for personal use. Corporate policy statement
+- **Observed Inadequacies**, or what to do when you
+see others not doing the right thing
