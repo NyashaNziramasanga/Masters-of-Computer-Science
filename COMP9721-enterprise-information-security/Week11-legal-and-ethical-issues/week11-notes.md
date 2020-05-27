@@ -81,3 +81,27 @@ liabilities
 - **Mis-use or illegal use**, using company resources for personal use. Corporate policy statement
 - **Observed Inadequacies**, or what to do when you
 see others not doing the right thing
+
+### Major Impacts
+
+- Too many constraints
+- Insufficient flexibility
+- Access limitations
+- Big brother is watching
+- Complex authorisation mechanisms
+
+### Positive Impacts
+
+- Increased standardisation of work approaches
+- Improved documentation of events
+- Greater confidence for employees doing
+things correctly
+- Greater difficulty for employees to circumvent
+the correct processes
+
+### Negative Impacts
+
+- Work inefficiences, impeding smooth and effective work practices
+- Drop in moral, my employer doesnt truest me
+- Fear and insecurity, who is watching me
+- loss of truest and respect
