@@ -101,7 +101,7 @@ the correct processes
 
 ### Negative Impacts
 
-- Work inefficiences, impeding smooth and effective work practices
-- Drop in moral, my employer doesnt truest me
+- Work inefficiencies, impeding smooth and effective work practices
+- Drop in moral, my employer doesn't truest me
 - Fear and insecurity, who is watching me
 - loss of truest and respect
