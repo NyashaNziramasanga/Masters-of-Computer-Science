@@ -13,6 +13,8 @@
   - [Securing Data](#securing-data)
   - [Storage Location & Tenancy](#storage-location--tenancy)
   - [Auditing & Compliance](#auditing--compliance)
+  - [Cloud Security Principles](#cloud-security-principles)
+  - [Cloud Issues](#cloud-issues)
 
 ---
 
@@ -149,3 +151,17 @@ A Security Control Model Covers Security Related to
 - Which applies to provider, where is the demarcation?
 - How cloud provider will support?
 - How to provide data, the necessary information to the regulator irrespective of responsibility?
+
+## Cloud Security Principles
+
+- **Identity Management**: managing personal identity information so that access to computer resources, applications, data, & services is controlled properly
+- **Detection & Forensics**: separating legitimate from illegitimate activity
+- **Encryption**: coding to protect your information assets
+
+## Cloud Issues
+
+- **Data segregation**, data is on shared resources with other customers
+- **Data recovery**, procedures that will take place if there is a disaster
+- **Investigative Support**, Investigating inappropriate or illegal activity may be
+  impossible in cloud computing
+- **Long-term Viability**, Ideally, your cloud computing provider will never go broke or get acquired & swallowed up by a larger company. But you must be sure your data will remain available even after such an event
