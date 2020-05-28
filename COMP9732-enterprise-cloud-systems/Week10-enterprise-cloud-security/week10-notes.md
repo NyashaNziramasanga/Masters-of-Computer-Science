@@ -23,6 +23,7 @@
     - [Public-Key Systems](#public-key-systems)
     - [Symmetric-Key Systems](#symmetric-key-systems)
   - [Firewalls](#firewalls)
+  - [Resources](#resources)
 
 ---
 
@@ -233,3 +234,9 @@ have
 Firewalls Protect Internal Networks by Filtering Packets
 
 ![firewalls](images/firewalls.png)
+
+## Resources
+
+- [Azure Security](https://docs.microsoft.com/en-us/azure/security/azure-security)
+- [Security Best Practices and Patterns](https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns)
+- [Azure Cloud App Security](https://www.microsoft.com/en-au/cloud-platform/cloud-app-security)
