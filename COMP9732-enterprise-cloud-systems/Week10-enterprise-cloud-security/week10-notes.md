@@ -15,6 +15,9 @@
   - [Auditing & Compliance](#auditing--compliance)
   - [Cloud Security Principles](#cloud-security-principles)
   - [Cloud Issues](#cloud-issues)
+  - [Network Security](#network-security)
+  - [Network Security Threats: Attacks](#network-security-threats-attacks)
+  - [Network Security Tools](#network-security-tools)
 
 ---
 
@@ -165,3 +168,32 @@ A Security Control Model Covers Security Related to
 - **Investigative Support**, Investigating inappropriate or illegal activity may be
   impossible in cloud computing
 - **Long-term Viability**, Ideally, your cloud computing provider will never go broke or get acquired & swallowed up by a larger company. But you must be sure your data will remain available even after such an event
+
+---
+
+## Network Security
+
+Protection of networks & their services from
+unauthorised modification, destruction, or disclosure,& provision of assurance that the network performs its critical functions correctly & there are no harmful side effects
+
+## Network Security Threats: Attacks
+
+- **Social engineering**
+- **Reconnaissance attacks**- information-gathering
+  activities to collect data that is later used to
+  compromise networks
+- **Access attacks** - which exploit network vulnerabilities in order to gain entry to e-mail, databases, or the corporate network
+- **Denial-of-service attacks** or DDoS - which prevent access to part or all of a computer system
+- **Viruses**
+- **Trojan horses**
+- **Vandals**
+- **Data interception**
+
+## Network Security Tools
+
+- Anti-virus software
+- Identity Services
+- Secure network infrastructure
+- Virtual Private Networks (VPN)
+- Encryption
+- Network Security Management
