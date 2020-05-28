@@ -11,6 +11,8 @@
     - [6 Questions A CIO Should Ask](#6-questions-a-cio-should-ask)
   - [Security Mapping](#security-mapping)
   - [Securing Data](#securing-data)
+  - [Storage Location & Tenancy](#storage-location--tenancy)
+  - [Auditing & Compliance](#auditing--compliance)
 
 ---
 
@@ -126,3 +128,24 @@ A Security Control Model Covers Security Related to
 - **Authentication**, validating your credentials like User
   Name/User ID & password to verify your identity
 - **Authorisation**, your ability to access the system & up to what extent. Once your identity is verified by the system after successful authentication, you are then authorised to access the resources of the system
+
+## Storage Location & Tenancy
+
+- Check cloud provider complying under local privacy
+  law
+- Method of segregation in case of multi-tenancy
+- Check who has privileged access?
+- What type of encryption? Recoverability? Tested by
+  security experts?
+- Plans for disaster recovery? Multi-site? Many providers like Microsoft & Amazon allow having multiple keys across multiple zones
+- Key management needs to be dealt seriously
+- Keys should have a defined life cycle
+
+## Auditing & Compliance
+
+- Many sections may be applicable only to provider
+- The terms & condition not covered in SLA
+- Which regulations?
+- Which applies to provider, where is the demarcation?
+- How cloud provider will support?
+- How to provide data, the necessary information to the regulator irrespective of responsibility?
