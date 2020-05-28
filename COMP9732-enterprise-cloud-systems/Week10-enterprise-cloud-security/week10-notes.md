@@ -18,6 +18,11 @@
   - [Network Security](#network-security)
   - [Network Security Threats: Attacks](#network-security-threats-attacks)
   - [Network Security Tools](#network-security-tools)
+  - [Network Security Adversaries](#network-security-adversaries)
+  - [Cryptography](#cryptography)
+    - [Public-Key Systems](#public-key-systems)
+    - [Symmetric-Key Systems](#symmetric-key-systems)
+  - [Firewalls](#firewalls)
 
 ---
 
@@ -178,11 +183,11 @@ unauthorised modification, destruction, or disclosure,& provision of assurance t
 
 ## Network Security Threats: Attacks
 
-- **Social engineering**
-- **Reconnaissance attacks**- information-gathering
+- **Social engineering**, Social Engineering is obtaining confidential network security information through non-technical means
+- **Reconnaissance attacks**, Information-gathering
   activities to collect data that is later used to
   compromise networks
-- **Access attacks** - which exploit network vulnerabilities in order to gain entry to e-mail, databases, or the corporate network
+- **Access attacks**, which exploit network vulnerabilities in order to gain entry to e-mail, databases, or the corporate network
 - **Denial-of-service attacks** or DDoS - which prevent access to part or all of a computer system
 - **Viruses**
 - **Trojan horses**
@@ -197,3 +202,34 @@ unauthorised modification, destruction, or disclosure,& provision of assurance t
 - Virtual Private Networks (VPN)
 - Encryption
 - Network Security Management
+
+## Network Security Adversaries
+
+![network-adversaries](images/network-adversaries.png)
+
+## Cryptography
+
+The use of mathematics to protect information by
+transforming (or Encrypting) it into an unreadable
+format called Cipher Text.
+
+Encrypted messages can sometimes be broken by
+cryptanalysis, also called codebreaking, although
+modern cryptography techniques are virtually
+unbreakable
+
+### Public-Key Systems
+
+Use two keys, a public key known to everyone & a
+private key that only the recipient of messages uses
+
+### Symmetric-Key Systems
+
+Use a single key that both the sender & recipient
+have
+
+## Firewalls
+
+Firewalls Protect Internal Networks by Filtering Packets
+
+![firewalls](images/firewalls.png)
