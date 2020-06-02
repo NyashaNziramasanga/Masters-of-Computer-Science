@@ -10,6 +10,9 @@
       - [Goal-Directed Search](#goal-directed-search)
       - [Precomputed Cluster Distances](#precomputed-cluster-distances)
       - [Highway Hierarchies](#highway-hierarchies)
+  - [Priority Queues](#priority-queues)
+    - [Heaps DS](#heaps-ds)
+      - [Complete Binary Tree](#complete-binary-tree)
 
 ---
 
@@ -104,3 +107,36 @@ Basic idea :
 - Start with bidirectional Dijkstra (from both source and destination)
 - This is using small local roads, until you get to the entry point of a highway
 - At this point, switch to the highway network
+
+---
+
+## Priority Queues
+
+- We select items on the basis of highest priority and the DS to use is called a priority queue
+- Implementing a priority queue used a sorted list which is sorted by priority
+- To find the highest-priority: `O(1)` (Constant)
+- To insert a new item and then re-sort `O(n)` (Linear)
+
+### Heaps DS
+
+- Priority queue is implemented using a heap
+- Complexity for :
+  - Adding is `O(log n)`
+  - Remove (min/max) is `O(log n)`
+- Heaps have 2 priorities:
+  - A heap is a **complete binary tree**
+  - A heap imposes a **partial ordering** on its elements
+
+#### Complete Binary Tree
+
+- Specific pyramid shape
+- Starting at the root, the tree is filled out level by level.
+- The last level is filled out from **left to right**, but might not be filled out completely
+- Always filled from the left and only emptied form the right
+
+![binary-tree](images/binary-tree.png)
+
+- We distinguish between our logical view of the data structure, a complete binary tree
+- Actual implementation **an array**– not a tree at all, no need for nodes, or pointers to
+  children = no overhead !
+- Finds related nodes in `O(1)` (Constant) by calculation and array reference
