@@ -62,6 +62,45 @@ point to any other point
 
 #### Goal-Directed Search
 
+- An improved version of Dijkstra’s algorithm known as **A\* Search**
+- If you have a “rough idea” of where the particular destination is that you’re searching for
+- Rather choose search paths that go in the general direction of the destination!
+
+![goal-directed-search](images/goal-directed-search.png)
+
 #### Precomputed Cluster Distances
 
+- Divide the map up into clusters of vertices, setting up the vertices that are closer together
+- Calculating shortest path from cluster to cluster instead of vertex to vertex (Precompute al the distances)
+- Discard an entire cluster if the shortest path to any point in the cluster is too long
+
 #### Highway Hierarchies
+
+- One of the fastest of all speed up techniques
+- Hierarchy of roads:
+  - Small, local roads
+  - Bigger main roads
+  - Highways
+  - Express ways/Motorways
+    Some properties of real roads are:
+- Highways are :
+  - Long, straight and fast
+  - Not a lot of roads crossing them
+  - Used a lot
+- Local roads are:
+  - Short and slow
+  - lots of intersections with other roads
+  - Lots of options at each junction
+  - Used rarely
+- Reasonable approach:
+  - To go from A to B
+  - From A, get to the next reasonable highway
+  - Drive until we are close enough to B
+  - Search for B starting from the highway’s exit
+  - Most routes that are long enough will make use of a highway of some kind
+
+Basic idea :
+
+- Start with bidirectional Dijkstra (from both source and destination)
+- This is using small local roads, until you get to the entry point of a highway
+- At this point, switch to the highway network
