@@ -6,6 +6,8 @@
     - [Other factors](#other-factors)
   - [Implementation Issues](#implementation-issues)
   - [Certification](#certification)
+  - [Maintaining Security](#maintaining-security)
+  - [Security Roles](#security-roles)
 
 ---
 
@@ -59,5 +61,20 @@ Planning stage same as for any project
 - Largely marketing driven – improve brand image
 - May be a requirement in order to engage with some
   other business enterprises
-- May increase confidence level of customers in doing
-  business with the enterprise
+- May increase confidence level of customers in doing business with the enterprise
+
+## Maintaining Security
+
+Continuous process, arising from matters such as
+
+- Acquisition and disposal of assets
+- Change in business activities, priorities, processes
+- Formation or dissolution of alliances with other
+  enterprises
+- Staff changes – particularly senior staff
+
+## Security Roles
+
+- **Small**, part time task role handled by IT department
+- **Medium**, part time role handled by IT department
+- **Large**, full time roles such as Security engineers and
