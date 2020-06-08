@@ -13,6 +13,7 @@
   - [Priority Queues](#priority-queues)
     - [Heaps DS](#heaps-ds)
       - [Complete Binary Tree](#complete-binary-tree)
+      - [Partial Ordering](#partial-ordering)
 
 ---
 
@@ -140,3 +141,23 @@ Basic idea :
 - Actual implementation **an array**– not a tree at all, no need for nodes, or pointers to
   children = no overhead !
 - Finds related nodes in `O(1)` (Constant) by calculation and array reference
+
+#### Partial Ordering
+
+- Every element in the heap has a value associated with it
+- When the heap is used as a priority queue, this value corresponds to the priority of the particular element
+- A heap is a complete binary tree with the property:
+
+**The value of every node is greater
+than those of either of its children**
+
+- Therefore:
+  - the node’s value is greater than any of its descendants
+  - the heap imposes an ordering on its elements
+
+![partial-ordering](images/partial-ordering.png)
+
+- **Search** highest priority item `O(1)` because its always at the top
+- **Insert & Remove** is `O(log n)` depends on the depth of the tree
+
+- Pattern of usage is to remove the top element in the process of accessing it and then adjust the heap for the next highest element moves up to the top of the heap
