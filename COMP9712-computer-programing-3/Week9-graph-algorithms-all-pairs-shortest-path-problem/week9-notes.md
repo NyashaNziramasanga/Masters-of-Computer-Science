@@ -14,6 +14,7 @@
     - [Heaps DS](#heaps-ds)
       - [Complete Binary Tree](#complete-binary-tree)
       - [Partial Ordering](#partial-ordering)
+      - [Insert](#insert)
 
 ---
 
@@ -161,3 +162,18 @@ than those of either of its children**
 - **Insert & Remove** is `O(log n)` depends on the depth of the tree
 
 - Pattern of usage is to remove the top element in the process of accessing it and then adjust the heap for the next highest element moves up to the top of the heap
+
+#### Insert
+
+When inserting and deleting we need to maintain:
+
+- the heap remains partially ordered, and
+- the largest element ends up at the top
+
+Steps:
+
+1. Insert in next open position in the bottom level (from left to right on a tree)
+2. Compare element with parent and Swap with parent if child value is larger until its in the right place in the heap
+3. Complete tree is partially ordered
+
+![insert-into-tree](images/insert-into-tree.png)
