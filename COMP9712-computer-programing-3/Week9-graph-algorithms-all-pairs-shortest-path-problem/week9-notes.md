@@ -14,9 +14,10 @@
     - [Heaps DS](#heaps-ds)
       - [Complete Binary Tree](#complete-binary-tree)
       - [Partial Ordering](#partial-ordering)
-      - [Insert](#insert)
-      - [Batch Insert](#batch-insert)
+      - [Heap Insert](#heap-insert)
+      - [Heap Batch Insert](#heap-batch-insert)
         - [Siftdown Algorithm for batch insert](#siftdown-algorithm-for-batch-insert)
+      - [Heap Removal](#heap-removal)
 
 ---
 
@@ -165,7 +166,7 @@ than those of either of its children**
 
 - Pattern of usage is to remove the top element in the process of accessing it and then adjust the heap for the next highest element moves up to the top of the heap
 
-#### Insert
+#### Heap Insert
 
 When inserting and deleting we need to maintain:
 
@@ -180,7 +181,7 @@ Steps:
 
 ![insert-into-tree](images/insert-into-tree.png)
 
-#### Batch Insert
+#### Heap Batch Insert
 
 - Inserting all n values takes `O(n log n)` time
 - If all values are known (e.g. vertices and edges of graph), It’s more efficient to insert all the values at once rather than one at a time
@@ -202,3 +203,19 @@ Steps:
 - Else if its smaller than one or both of its children, swap it with its largest child
 - Now it has two children and continue to send it down in the same way until it finds its place
 - `O (n)` complexity
+
+#### Heap Removal
+
+- The main way to access elements from a heap is to
+  access the top element
+  - Typically done by removing it
+  - This allows the next largest element to move to the top of the heap
+  - Also need to maintain complete binary tree shape
+
+Removal:
+
+- Delete the element in position 0 (top element)
+- Move the last element in the tree (position n – 1) into position 0
+- Now let it siftdown to its right position
+
+![remove-example](images/remove-example.png)
