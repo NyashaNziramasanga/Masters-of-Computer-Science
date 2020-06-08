@@ -15,6 +15,8 @@
       - [Complete Binary Tree](#complete-binary-tree)
       - [Partial Ordering](#partial-ordering)
       - [Insert](#insert)
+      - [Batch Insert](#batch-insert)
+        - [Siftdown Algorithm for batch insert](#siftdown-algorithm-for-batch-insert)
 
 ---
 
@@ -177,3 +179,26 @@ Steps:
 3. Complete tree is partially ordered
 
 ![insert-into-tree](images/insert-into-tree.png)
+
+#### Batch Insert
+
+- Inserting all n values takes `O(n log n)` time
+- If all values are known (e.g. vertices and edges of graph), It’s more efficient to insert all the values at once rather than one at a time
+
+Steps:
+
+1. Start with an array that has the elements in any order
+2. Then sort them to produce a partial order
+
+- Need to maintain the heap properties :
+  - The complete binary tree structure is maintained
+  - Every node is larger than its two children
+
+##### Siftdown Algorithm for batch insert
+
+- Provided two sub heaps under a node are already sorted
+- Find the right position fo r the node itself
+- If larger than everything in the two sub heaps, its fine may be moved upwards later
+- Else if its smaller than one or both of its children, swap it with its largest child
+- Now it has two children and continue to send it down in the same way until it finds its place
+- `O (n)` complexity
