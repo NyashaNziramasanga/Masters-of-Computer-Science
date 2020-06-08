@@ -18,6 +18,10 @@
       - [Heap Batch Insert](#heap-batch-insert)
         - [Siftdown Algorithm for batch insert](#siftdown-algorithm-for-batch-insert)
       - [Heap Removal](#heap-removal)
+      - [Heap Update](#heap-update)
+    - [Time complexity of Heap operations](#time-complexity-of-heap-operations)
+  - [Improvements to Dijkstra](#improvements-to-dijkstra-1)
+    - [Application to Dijkstra’s Algorithm](#application-to-dijkstras-algorithm)
 
 ---
 
@@ -219,3 +223,36 @@ Removal:
 - Now let it siftdown to its right position
 
 ![remove-example](images/remove-example.png)
+
+#### Heap Update
+
+- This requires that you maintain a second (auxiliary) data
+  structure that, for each element, maintains a pointer into
+  the heap’s array, so you can look them up easily
+  - Then when an object’s priority changes, you can search for it in the
+    auxiliary structure, and follow a pointer
+  - Might use a binary search tree, for instance
+- Once the element is updated, usually you have to delete and reinsert it to maintain the partial ordering
+
+### Time complexity of Heap operations
+
+| Operation    | ---                                                                                                 |
+| ------------ | --------------------------------------------------------------------------------------------------- |
+| Remove       | does one siftdown `O(log N)`                                                                        |
+| Insert       | does one percolate-up `O(log N)`                                                                    |
+| Update       | does a lookup in auxiliary BST - `O(log N)`+ remove and reinsert = `O(log N)`+`O(log N)`=`O(log N)` |
+| Batch Insert | does a siftdown for half of the N elements `O(N)`                                                   |
+
+---
+
+## Improvements to Dijkstra
+
+- Bidirectional Search
+- Data Structures (Priority Queues)
+- Goal-Directed Search
+- Precomputed Cluster Distances
+- Highway Hierarchies
+
+### Application to Dijkstra’s Algorithm
+
+- Priority Queues can be applied to Dijkstra’s Algorithm to speed up finding the next vertex to be processed
