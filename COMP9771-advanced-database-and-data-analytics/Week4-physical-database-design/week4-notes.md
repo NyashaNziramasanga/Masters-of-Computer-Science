@@ -1,6 +1,6 @@
 # Week 4 : Physical Database Design
 
-Process of producing a description of the implementation fo the database on secondary storage
+Process of producing a description of the implementation for the database on secondary storage
 
 ## 3. Translate logical data model for target DBMS
 
