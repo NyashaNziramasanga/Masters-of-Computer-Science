@@ -1,5 +1,10 @@
 # Week2 - DSA's
 
+## Table of Contents
+
+- [Implementing a tree](###Implementing-a-tree)
+- [Tree Traversal Application](###Tree-Traversal-Application)
+
 ## Trees `O(Log N)`
 
 A tree is a collection of of N nodes, including the root node and N - 1 edges
