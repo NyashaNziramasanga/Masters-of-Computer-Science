@@ -1,14 +1,9 @@
 # Data Structures
 
-- [Arrays](##Arrays)
-  - [ArrayList](###ArrayList)
-- [Linked Lists](##Linked%20Lists)
-- [Trees]
-- [Hash]
-- [Trie]
-  - SuffixTrie
-- [Trie]
-- [Graph]
+- [Data Structures](#data-structures)
+  - [Arrays](#arrays)
+    - [ArrayList](#arraylist)
+  - [Linked Lists](#linked-lists)
 
 ## Arrays
 
