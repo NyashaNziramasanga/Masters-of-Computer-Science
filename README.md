@@ -5,7 +5,7 @@
   </a>
 </p>
     <h1> 
-    📚 Masters of Computer Science 💻
+    Masters of Computer Science
     </h1>
     <p>
       <i>Personal notes of Masters of Computer Science from <a href="https://www.flinders.edu.au/">Flinders University</a></i>
