@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <a href="https://www.nyashanziramasanga.com/">
+  <a href="https://www.flinders.edu.au/">
     <img src="./Assets/images/flinders-university-logo.png" alt="" height="60"/>
   </a>
 </p>
@@ -8,7 +8,7 @@
     📚 Masters of Computer Science 💻
     </h1>
     <p>
-      <i>Personal Masters of Computer Science </a></i>
+      <i>Personal notes of Masters of Computer Science from <a href="https://www.flinders.edu.au/">Flinders University</a></i>
     </p>
 </div>
 
