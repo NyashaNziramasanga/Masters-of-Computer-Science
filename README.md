@@ -19,6 +19,8 @@ Masters of Computer Science course notes
 
 | Semester | Topic |
 | -------- | ----- |
+| 1 | TBA |
+| 2 | TBA |
 
 
 ## Setup Lecture Notes Script
