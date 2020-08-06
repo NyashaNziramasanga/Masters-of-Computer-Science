@@ -8,7 +8,7 @@
     Masters of Computer Science
     </h1>
     <p>
-      <i>Personal notes of Masters of Computer Science from <a href="https://www.flinders.edu.au/">Flinders University</a></i>
+      <i>Personal notes for Masters of Computer Science from <a href="https://www.flinders.edu.au/">Flinders University</a></i>
     </p>
 </div>
 
