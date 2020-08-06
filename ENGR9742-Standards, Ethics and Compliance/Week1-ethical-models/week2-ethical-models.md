@@ -43,3 +43,13 @@ Duty to notify the party you that something would harm the party.
 Duty not to perform tasks for a party without being competent on.
 
 **Example** - Taking on a task that is out of your scope and not competent on.
+
+## Parties
+
+Parties you owe a ethical obligation to
+
+- Employer
+- Company Owners (Shareholders)
+- Customers
+- Third Parties
+- Society
