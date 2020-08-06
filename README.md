@@ -1,7 +1,7 @@
 <div align="center">
 <p align="center">
   <a href="https://www.flinders.edu.au/">
-    <img src="./Assets/images/flinders-university-logo.png" alt="" height="60"/>
+    <img src="./Assets/images/flinders-university-logo.png" alt="" height="100"/>
   </a>
 </p>
     <h1> 
