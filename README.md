@@ -1,6 +1,16 @@
-# 📚 Masters of Computer Science Notes 💻
-
-Masters of Computer Science course notes
+<div align="center">
+<p align="center">
+  <a href="https://www.nyashanziramasanga.com/">
+    <img src="./Assets/images/flinders-university-logo.png" alt="" height="60"/>
+  </a>
+</p>
+    <h1> 
+    📚 Masters of Computer Science 💻
+    </h1>
+    <p>
+      <i>Personal Masters of Computer Science </a></i>
+    </p>
+</div>
 
 ## 2020 Topics
 
@@ -19,9 +29,8 @@ Masters of Computer Science course notes
 
 | Semester | Topic |
 | -------- | ----- |
-| 1 | TBA |
-| 2 | TBA |
-
+| 1        | TBA   |
+| 2        | TBA   |
 
 ## Setup Lecture Notes Script
 
