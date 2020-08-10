@@ -27,7 +27,7 @@ Differentiate needs from wants, the wants can drive competition and innovative e
 
 ### Stakeholder Analysis
 
-![]()
+![stakeholder-analysis](images/stake-holder-analysis.png)
 
 ## The market and customer
 
@@ -45,16 +45,16 @@ Main questions:
 - Look internally and external
 - What are you trying to do vs what can you do
 
-![]()
-![]()
+![swot-analysis](images/swot-analysis.png)
+![google-swot-analysis](images/google-swot-analysis.png)
 
 ## Network Diagram
 
 Find the critical path
 
-![]()
+![network-diagram](images/network-diagram.png)
 
-![product development process]()
+![product development process](images/product-development-process.png)
 
 ## FMEA (Failure Modes and Effect Analysis)
 
