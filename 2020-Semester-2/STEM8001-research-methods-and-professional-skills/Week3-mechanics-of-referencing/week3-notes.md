@@ -89,3 +89,15 @@ Example:
 NB. Arranged alphabetically
 
 ![reference-list](images/reference-list.png)
+
+## Illustrative/Supplementary Material
+
+- Allows you to represent large amounts of information
+- Types of illustrative materials are labelled as:
+  - Tables
+  - Figures (Maps, graphs)
+- Add source of the data
+
+Example:
+
+![graph](images/graph.png)
