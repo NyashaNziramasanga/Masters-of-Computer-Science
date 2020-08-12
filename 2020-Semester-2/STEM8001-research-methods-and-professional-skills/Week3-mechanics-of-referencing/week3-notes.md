@@ -9,9 +9,9 @@ reader of the sources of information used in a piece of written work
 
 - Ability to come-up with new Scientific Ideas, by building upon previous work
 - Ability to Conduct the Research: Using new methods or building upon previous
-established methods.
+  established methods.
 - Ability to Carry out Scientific Investigations; observation and analysis of data to
-test hypotheses.
+  test hypotheses.
 - Ability to present the outcomes (either in written form or oral form)
 
 ### Why Referencing
@@ -33,10 +33,10 @@ Common styles include **APA, Harvard, MLA and Vancouver**
 - Shows the extent that you read/enquire to base your ideas
 - Makes better research reporting.
 - Removes any question of plagiarism. (Copying, using, or the misuse of other people’s ideas,
-words or concepts, without proper referencing is plagiarism)
+  words or concepts, without proper referencing is plagiarism)
 - Shows that you are not bias towards one argument
 - Enables your audience to make a sound judgement on your work and then follow up on
-further ideas
+  further ideas
 
 ### Reference Principles
 
@@ -44,17 +44,17 @@ You should always provide a reference to all material that you:
 
 - **Quote** - When you write the exact wording of an author
 - **Paraphrase** - When you write an idea from the literature into your own words for
-your own logic/argument
+  your own logic/argument
 - **Summarise** - When you write an idea from the literature into your own words,
-keeping to the author’s logic argument
+  keeping to the author’s logic argument
 
 ### Examples
 
 1. According to **Parappilly (2005, p. 35)** “The developmental nature of ….”
 2. **Parappilly (2018, p.70)** state that “ For students from a non-science background the difference
-between robots and standard lab equipment is less distinct”
+   between robots and standard lab equipment is less distinct”
 3. **In 2018, Parappilly (p.70)** found that “For students from a non-science background the
-difference between robots and standard lab equipment is less distinct”
+   difference between robots and standard lab equipment is less distinct”
 4. According to **Parappilly (2005)**
 
 ## Harvard Referencing
@@ -68,14 +68,24 @@ Page range of article.**
 
 Example:
 
-> Parappilly, M, Hassam, C, & Woodman, RJ 2018, ‘Race to improve student understanding of uncertainty: using lego race cars in the physics lab’, American Journal of Physics, vol. 86, no. 1, pp. 68–76. 
+> Parappilly, M, Hassam, C, & Woodman, RJ 2018, ‘Race to improve student understanding of uncertainty: using lego race cars in the physics lab’, American Journal of Physics, vol. 86, no. 1, pp. 68–76.
 
 ![in-text-citation](images/in-text-citation.png)
 
-### Cite Journal article with DOI (Digital Object Identifier) 
+### Cite Journal article with DOI (Digital Object Identifier)
 
 Example:
 
 > Parappilly, M, Hassam, C, & Woodman, RJ 2018, ‘Race to improve student understanding of uncertainty: using lego race cars in the physics lab’, American Journal of Physics, vol. 86, no. 1, pp. 68–76. DOI: https://doi.org/10.1119/1.5003812.
 
 ![harvard-referencing](images/harvard-referencing.png)
+
+## Acknowledging Funding
+
+![acknowledge-funding](images/acknowledge-funding.png)
+
+## Reference list
+
+NB. Arranged alphabetically
+
+![reference-list](images/reference-list.png)
