@@ -25,3 +25,34 @@
 ### Probability levels and Risk Assessment Matrix
 
 ![probability-levels](images/probability-levels.png)
+
+- Legal liability if somebody is injured by your product in normal use.
+
+- Defect in:
+
+  - Design
+  - Manufacturing
+  - Warning/instructions
+
+- Regulation/statute if you’re not in compliance, you’re liable.
+  Liability is established de facto, if the regulation is related to the
+  failure.
+
+- Check:
+  - Federal law
+  - State law
+  - Regulatory agencies (standards)
+  - Professional associations (standards)
+
+> Q: What are reasonable customer expectations?
+
+### Common Defences for Product liability
+
+- **Misuse** of product
+- **Modification** of product
+
+Safety vs Cost Effectiveness
+
+Examples:
+
+- Samsung Note 7 Battery Failure
