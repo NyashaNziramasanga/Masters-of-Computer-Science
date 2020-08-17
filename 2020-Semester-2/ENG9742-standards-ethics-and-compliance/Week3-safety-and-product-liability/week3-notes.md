@@ -1,4 +1,4 @@
-# Week3 Product Liability
+# Week3 Safety and Product Liability
 
 ## Design for Safety
 
