@@ -1,5 +1,18 @@
 # Week 2 Team Management and Innovation Management
 
+- [Week 2 Team Management and Innovation Management](#week-2-team-management-and-innovation-management)
+  - [High level design](#high-level-design)
+  - [Phase 1 : Design](#phase-1--design)
+  - [Stakeholder Register](#stakeholder-register)
+    - [Stakeholder Analysis](#stakeholder-analysis)
+  - [The market and customer](#the-market-and-customer)
+  - [Strategic Goals - SWOT Analysis](#strategic-goals---swot-analysis)
+  - [Network Diagram](#network-diagram)
+  - [FMEA (Failure Modes and Effect Analysis)](#fmea-failure-modes-and-effect-analysis)
+    - [Benefits fo FMEA](#benefits-fo-fmea)
+    - [FMEA measurements](#fmea-measurements)
+  - [Example](#example)
+
 ## High level design
 
 Think about the different stakeholders, try focus on the customer.
@@ -33,7 +46,7 @@ Parties that are:
 - Affected by project decisions.
 - Have a stake in the success or failure of the project.
 - May be involved in the project at different times, may or may not be team
-members. All of the team members (constant or sporadic) are stakeholders.
+  members. All of the team members (constant or sporadic) are stakeholders.
 
 ![stakeholder-register](images/stakeholder-register.png)
 
@@ -63,9 +76,9 @@ Main questions:
 ## Network Diagram
 
 - A schematic display of the logical relationships among, or sequencing of, project
-activities.
+  activities.
 - Activities are represented by arrows and connected at
-points called nodes(starting and ending point of an activity) 
+  points called nodes(starting and ending point of an activity)
 - Allows for critical path management (CPM)
 
 ![network-diagram](images/network-diagram.png)
@@ -106,7 +119,7 @@ Questions:
 - Local incomes?
 - Local Manufacturing base? How to manage foreign manufacturing? Make/buy decisions?
 - Parts supply. Standard parts? Modules for easy replacement if mechanic is not available?
-Easy to diagnose?
+  Easy to diagnose?
 - Long range, long distances without gas stations
 - Few local competitors – capitalize on
 - Low local labor rates – leverage

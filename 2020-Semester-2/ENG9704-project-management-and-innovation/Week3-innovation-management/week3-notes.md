@@ -1,4 +1,8 @@
-# Week3-s
+# Week3 Innovation Management
+
+- [Week3 Innovation Management](#week3-innovation-management)
+  - [Work Breakdown Structure (WBS)](#work-breakdown-structure-wbs)
+    - [Example](#example)
 
 ## Work Breakdown Structure (WBS)
 
@@ -8,7 +12,7 @@
 
 ![wbs](images/wbs.png)
 
-## Example
+### Example
 
 1. Electrical Control Model
    1. PCB
