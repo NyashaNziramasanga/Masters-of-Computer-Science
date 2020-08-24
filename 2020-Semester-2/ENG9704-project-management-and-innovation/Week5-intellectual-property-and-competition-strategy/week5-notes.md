@@ -13,6 +13,11 @@
   - [Problem Re-framing Matrix](#problem-re-framing-matrix)
   - [SCAMPER Method](#scamper-method)
   - [Benchmarking](#benchmarking)
+    - [Intellectual Property](#intellectual-property)
+  - [Patents](#patents)
+    - [Types of Patents](#types-of-patents)
+      - [Provisional](#provisional)
+      - [Non-Provisional](#non-provisional)
 
 ## 1. Brainstorming
 
@@ -92,3 +97,29 @@ Examples
 - Patents
 - Journals
 - Competitors
+
+---
+
+### Intellectual Property
+
+## Patents
+
+- Any idea for system, machine, article of manufacturing, material, process or method
+- important to competition
+- 20 yeas of exclusive use from the filing date
+- Must be:
+  - Novel
+  - Not obvious
+  - First to file wins
+
+### Types of Patents
+
+#### Provisional
+
+- A quick, non-formal specification filed to preserve your filing date
+- No claims
+- Only lasts 1 year
+
+#### Non-Provisional
+
+- Formal patent application that lasts 20 years
