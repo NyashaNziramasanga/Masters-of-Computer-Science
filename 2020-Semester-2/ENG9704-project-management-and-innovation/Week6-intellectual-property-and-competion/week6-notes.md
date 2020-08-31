@@ -1,5 +1,15 @@
 # Week6 Intellectual Property and Competition
 
+- [Week6 Intellectual Property and Competition](#week6-intellectual-property-and-competition)
+  - [Copyrights](#copyrights)
+  - [Trade Secrets](#trade-secrets)
+  - [Trademarks](#trademarks)
+  - [Unfair Competition](#unfair-competition)
+- [Project Risks Management](#project-risks-management)
+  - [Reasons projects fail](#reasons-projects-fail)
+  - [Risk Identification Methods](#risk-identification-methods)
+  - [Risks Management Plan](#risks-management-plan)
+
 ## Copyrights
 
 - Protects an artistic endeavour. Art, pictures, music, movies
@@ -29,3 +39,40 @@
 - Hiring an employee for trade secrets
 
 Australia falls under the Competition and Consumer Act of 2010
+
+---
+
+# Project Risks Management
+
+Identifying risks and mitigating them
+
+## Reasons projects fail
+
+- Conceptualisation
+  - Vague or optimistic business case
+  - Inappropriate technology for the application
+- Planning
+  - Poor planing and estimation
+  - Inadequate funds
+  - Underestimating personnel requirements
+  - Inadequate stockholder understanding and engagement
+- Execution
+  - Scope creep
+  - Inadequate resources
+  - lock of awareness of warning signs
+  - Poor project managements controls and documentation
+  - Engineering failures
+- Closure
+  - Poor post delivery support
+  - Inadequate handover
+
+## Risk Identification Methods
+
+- Risk brainstorming (What could go wrong)
+- Lessons learned from past projects
+
+## Risks Management Plan
+
+- Risk identification
+- Response plans (Budget planning, implementation plan)
+- Risk tracking tools (Probability Impact matrix, Risk register)
