@@ -18,6 +18,7 @@
     - [Types of Patents](#types-of-patents)
       - [Provisional](#provisional)
       - [Non-Provisional](#non-provisional)
+  - [Non-disclosure Agreements](#non-disclosure-agreements)
 
 ## 1. Brainstorming
 
@@ -123,3 +124,8 @@ Examples
 #### Non-Provisional
 
 - Formal patent application that lasts 20 years
+
+## Non-disclosure Agreements
+
+- Avoiding sharing the idea around with friends or competitors
+- Get people to sign an NDA and without an NDA people are allowed to disclose the idea to anyone

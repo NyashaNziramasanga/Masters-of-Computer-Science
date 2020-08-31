@@ -1,1 +1,0 @@
-# Week6-intellectual-property-and
