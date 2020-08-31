@@ -19,6 +19,7 @@
       - [Provisional](#provisional)
       - [Non-Provisional](#non-provisional)
   - [Non-disclosure Agreements](#non-disclosure-agreements)
+  - [Licensing Strategies](#licensing-strategies)
 
 ## 1. Brainstorming
 
@@ -129,3 +130,11 @@ Examples
 
 - Avoiding sharing the idea around with friends or competitors
 - Get people to sign an NDA and without an NDA people are allowed to disclose the idea to anyone
+
+## Licensing Strategies
+
+- Sell patent with the company
+- License patent to one or more parties
+- Liscence full use
+- License for limited, specific uses
+- Licence exclusively to one party
