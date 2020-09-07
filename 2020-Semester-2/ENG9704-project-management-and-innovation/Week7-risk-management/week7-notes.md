@@ -14,4 +14,13 @@ Use hand calculations such as analysis, excel etc to validate the design
 
 - Use a simulation
 - Stress and fatigue analysis
-- control simulations
+- Control simulations
+- Feedback to design before testing
+
+## Questions
+
+- What are you going to test?
+- Testing for normal usage? or abnormal usage?
+- How long should the product last ?
+
+## Design Validation Plan and Report
