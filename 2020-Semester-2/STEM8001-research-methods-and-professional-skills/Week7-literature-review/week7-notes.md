@@ -21,3 +21,20 @@
 1. New ideas
 2. Literature relevant to the ideas, and
 3. Specific information that clarifies these ideas
+
+![critical-thinker](images/critical-thinker.png)
+
+Things to note of an article:
+
+- Read the title
+- Who are th authors and there institutional affiliations
+- Is it highly cited
+- Is it peer reviewed
+- Skim the abstract and paper for key information
+
+## Example
+
+![example1](images/example.png)
+
+Venn Diagram
+![example2](images/example2.png)
