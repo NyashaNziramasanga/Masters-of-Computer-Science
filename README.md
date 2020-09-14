@@ -36,15 +36,21 @@
 
 ![setup-lecture-notes.gif](Assets/images/setup-lecture-notes.gif)
 
-1. In root run:
+1. In root cd folder name (semester):
+
+```bash
+cd 2020-semester-1
+```
+
+2. Run script:
 
 ```bash
 node setupLectureNotes.js
 ```
 
-2. Select course folder
-3. Enter week number
-4. Enter week title
+3. Select course folder
+4. Enter week number
+5. Enter week title
 
 ### Folder Structure
 
