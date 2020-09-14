@@ -53,3 +53,23 @@ pro-formas financials include pre-production and post-launch
 - Show a graph
 - Use best case and worst case, either low/high sales prices etc
 - Tracking progress of actual vs projected
+
+![break-even analysis](images/break-even-analysis-1.png)
+
+![break-even analysis](images/break-even-analysis-2.png)
+
+## Financial Projection Scenarios
+
+![Financial Projection Scenarios](images/financial-projection-scenarios.png)
+
+![projections](images/projections.png)
+
+## Return on Investment (ROI)
+
+Quantifies the project value
+
+### Example
+
+Company purchases machine for 500 K which makes 50 K income every year.
+
+![roi](images/roi.png)
