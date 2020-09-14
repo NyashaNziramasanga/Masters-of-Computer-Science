@@ -73,3 +73,13 @@ Quantifies the project value
 Company purchases machine for 500 K which makes 50 K income every year.
 
 ![roi](images/roi.png)
+
+![example](images/example.png)
+
+## Net Present Value
+
+![npv](images/npv.png)
+
+### Example
+
+![npv example](images/npv-example.png)
