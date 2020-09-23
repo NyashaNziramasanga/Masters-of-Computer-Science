@@ -12,7 +12,7 @@ Duty based ethics (the Kant Deontology Model)
 
 #### 1. Duty of Care
 
-Duty to act in a way
+Duty to act in a way would reasonably protect the interests of the party. To act prudently towards a party you have a duty towards, and not recklessly or carelessly.
 
 **Example** - Building software and needs to be tested, however its not tested and places in production. You have breached the duty of care to you employee.
 
