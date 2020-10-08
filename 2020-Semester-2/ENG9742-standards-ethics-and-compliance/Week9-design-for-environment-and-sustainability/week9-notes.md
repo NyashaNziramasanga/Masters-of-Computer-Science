@@ -40,3 +40,22 @@
 - Number two issue is material selection because it drives the processes
 - Reducing the number of parts in a product is probably the best opportunity for reducing manufacturing costs
 - Use lower energy in the process (Lower temperatures, fewer processing, net shape parts)
+
+## Design for Assembly
+
+- Designing the system to be easily, inexpensive and ergonomic to assemble
+- Less time, less human input, lower scrap and less energy used
+
+[design-assembly](images/design-assembly.png)
+
+## Design for Maintainability and Repair
+
+- Ensure that the design will perform satisfactorily throughout its intended life with minimum expenditure of budget and effort
+- Example using Welding over fastening, rivets over screws
+- Minimize:
+  - Downtime for maintenance
+  - User and technician maintenance time
+  - Personnel injury in process
+  - Costs from maintenance
+
+[maintenance-action-plan](images/maintenance-action-plan.png)
