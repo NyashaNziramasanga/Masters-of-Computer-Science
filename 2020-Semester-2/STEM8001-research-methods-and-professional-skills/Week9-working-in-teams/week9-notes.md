@@ -36,3 +36,12 @@
 - shapers
 - shapers
 - specialist
+
+## Decsion Making Process
+- Majority Vote
+- Minority decision (e.g. sub-committee)
+- Expert opinion (Only if the expert is the best peroson to make the decision on the matter)
+- Authority rule (Designated leader to make the decisions)
+- Multi-voting
+- Concensus
+- 
