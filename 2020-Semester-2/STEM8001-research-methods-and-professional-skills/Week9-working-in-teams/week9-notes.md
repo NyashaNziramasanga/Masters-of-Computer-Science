@@ -44,4 +44,3 @@
 - Authority rule (Designated leader to make the decisions)
 - Multi-voting
 - Concensus
-- 
