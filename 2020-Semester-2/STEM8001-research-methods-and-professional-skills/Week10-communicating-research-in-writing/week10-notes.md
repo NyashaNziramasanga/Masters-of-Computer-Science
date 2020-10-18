@@ -74,3 +74,33 @@
 - Precise 
 - Researchable
 
+### Methodology
+
+- Approach or philosophy of your research
+- Step by step process used to undertake the research
+
+#### Main points
+
+- What kind of data or sources will you use (Quantitative or qualitative)
+- How you will collect and manage the material
+- Theoretical and methodological techniques will use to interpret and analyse these data/sources
+- Discuss possible problems and how these will be overcome
+
+• Ask yourself these questions:
+- What is your research problem?
+- What are the specific research goals or questions that you will need to address in order to investigate this problem?
+- What kind of data or sources will best allow you to reach these goals?
+- How will you gather your data/sources/information? How will you gain access to them? Will you need to generate your own data by conducting surveys or experiments?
+- What method or methods of interpretation and analysis is most suitable for your project? Will your study be qualitative, quantitative, or mixed-method?
+- What theories underlie your research? How will these theories allow you to meet your research goals?
+- Are there any ethical implications of your data collection or method of analysis?
+
+### Language
+
+- Formal
+  - Scientific, impersonal, objective
+- Highly structured
+  - Titles, sub-headings, sections
+- Specificity and breadth
+  - Detailed enough for experts, but general enough for novice.
+
