@@ -39,3 +39,10 @@ Anyone having an interest in the system
 6. PROFESSION - SE shall advance the integrity and reputation of the profession consistent with the public interest
 7. COLLEAGUES - SE shall be fair and support their colleagues
 8. SELF - SE shall participate in lifelong learning regarding the practice of their profession
+
+## Role of SE
+
+- Defining system requirements
+- Applying best practices and standards
+- Describing functionality of system
+- Design the implementation
