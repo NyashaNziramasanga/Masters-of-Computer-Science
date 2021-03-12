@@ -13,3 +13,14 @@
 - Consider the following:
   - Low-level: noise reduction, contrast enhancement, image sharpening
   - Mid-level: segmentation, classification of individual objects
+
+## Applications
+
+- Machine perception
+- Image restoration and enhancement
+- Inspections
+- Object identification
+- Optical character recognition
+- Face detection
+- 3D reconstruction
+- Biometrics
