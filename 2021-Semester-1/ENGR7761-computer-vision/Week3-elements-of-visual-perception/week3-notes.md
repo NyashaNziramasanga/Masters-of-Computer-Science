@@ -45,6 +45,31 @@ The digitalization of the image
 - The values are proportional to the energy intensity radiated by a physical source
 - non-negative and finite
 
-## Representation
+## Representation Digital Images
+
+Coordinates used to represent a digital imahe with a one-to-one correspondence between x and y axis
+
+[representation](images/representation.png)
+
+Matrix representation of `f(x,y)`
+
+[matrix](images/matrix.png)
+
+- `M x N` matrix should be positive values and `L` being the intensity
+- The larger the matrix the more memory is needed to store the image
+
+### Dynamic Range
+
+- Range of values spanned by the Gray Scale
+- The **upper limit** is **saturation** that is the maximum detectable intensity
+- The **lower limit** is **noise** that is the minimum detectable intensity
+
+[noise and saturation](images/noise-saturation.png)
+
+### Image Contrast
+
+- Image contrast is the difference in intensity between the highest and lowest intensity levels on an image
+- Contrast Ratio - Ratio of the luminance of the brightest color (white) to that of the darkest color (black) that the systems in capable of producing
+- High dynamic range = high contrast
 
 ## Fundamental Maths
