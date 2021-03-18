@@ -32,6 +32,19 @@ The digitalization of the image
 - quantization used to show the intensity of every signal
 - The more information the finer and clearer and more data is on the image
 
+### Three ways of representing a digital image
+
+1. **3 Dimensional function**
+2. **Visual intensity array**
+3. **Matrix** - each point represents a value which represents the intensity of the pixel
+
+### what is an image
+
+- A 2D function **f(x,y)**
+- **(x,y)** represents the spatial coordinates
+- The values are proportional to the energy intensity radiated by a physical source
+- non-negative and finite
+
 ## Representation
 
 ## Fundamental Maths
