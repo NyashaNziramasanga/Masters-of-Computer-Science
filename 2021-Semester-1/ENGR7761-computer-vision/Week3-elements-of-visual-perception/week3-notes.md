@@ -47,7 +47,7 @@ The digitalization of the image
 
 ## Representation Digital Images
 
-Coordinates used to represent a digital imahe with a one-to-one correspondence between x and y axis
+Coordinates used to represent a digital image with a one-to-one correspondence between x and y axis
 
 [representation](images/representation.png)
 
@@ -71,5 +71,21 @@ Matrix representation of `f(x,y)`
 - Image contrast is the difference in intensity between the highest and lowest intensity levels on an image
 - Contrast Ratio - Ratio of the luminance of the brightest color (white) to that of the darkest color (black) that the systems in capable of producing
 - High dynamic range = high contrast
+
+### Linear
+
+Storing every value as a linear array
+
+[linear](images/linear.png)
+
+### Spacial Intensity resolution
+
+- Measures of the smallest discernible detail in the image
+- Number of dots per inch
+- Units:
+  - Dots per unit (dots per inch - 72dpi)
+
+### Intensity resolution
+
 
 ## Fundamental Maths
