@@ -87,5 +87,16 @@ Storing every value as a linear array
 
 ### Intensity resolution
 
-
 ## Fundamental Maths
+
+### Neighbours of a pixel
+
+digital path - where every pair is adjacent
+
+[pixel neighbours](images/pixel-neighbours.png)
+
+### Spatial operations
+
+#### Neighbourhood operation
+
+Local averaging using neighbourhood processing, leads to blurring
