@@ -9,4 +9,17 @@
 
 ### Characteristics of requirements:
 
- - Attributes to aid in describing include functionality, interfaces, data, user and human factors
+- Functionality
+- Interfaces
+- Data
+- User and human factors
+- Physical environment
+- Documentation
+- Resources
+- Quality assurance
+
+### Major problems
+
+- Communication
+- Customer and user requirements mis understood
+- Change management
