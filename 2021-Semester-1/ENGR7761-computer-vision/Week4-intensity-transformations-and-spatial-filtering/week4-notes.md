@@ -29,6 +29,33 @@ Highlight a portion of the pixels/image and reduce everything else to show what 
 
 ## 3.2 Histogram Processing
 
+- A histogram is an approximate representation of the distribution of numerical data
+- a histogram shape is related to a the image appearance
+
+![histogram](images/histogram.png)
+
+### Histogram equalisation
+
+- Make the histogram more uniform which helps see details we couldn't see before
+- A cumulative distribution function (CDF) is a good histogram transformation function
+  
+![cumulative-distribution-function](images/cumulative-distribution-function.png)
+
+![histogram-equalisation](images/histogram-equalisation.png)
+
+on the left image are the original images, the right images are the equalized images
+
+### Local histogram Processing
+
+- Define a neighbourhood and move its center from pixel to pixel
+- at each location
+  - Obtain the histogram of the neighbourhood
+  - Apply histogram equalisation or matching
+  - Change the intensity of the pixel centred in the neighbourhood
+  - move to the next
+
+![local-histogram-localisation](images/local-histogram-localisation.png)
+
 ## 3.3 Linear Spatial Filtering (Convolution and Correlation)
 
 ## 3.4 Image Sharpening and derivatives
