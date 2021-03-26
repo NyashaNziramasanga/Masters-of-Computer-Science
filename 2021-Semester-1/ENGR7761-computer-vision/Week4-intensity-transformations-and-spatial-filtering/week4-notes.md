@@ -58,4 +58,6 @@ on the left image are the original images, the right images are the equalized im
 
 ## 3.3 Linear Spatial Filtering (Convolution and Correlation)
 
+
+
 ## 3.4 Image Sharpening and derivatives
