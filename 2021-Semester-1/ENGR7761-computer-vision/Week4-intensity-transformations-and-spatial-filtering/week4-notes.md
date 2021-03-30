@@ -79,3 +79,14 @@ example [Image kernels explained visually](https://setosa.io/ev/image-kernels/)
 
 ![derivative](images/derivative.png)
 
+### Image sharpening using Laplacian kernels
+
+![laplacian-kernels](images/laplacian-kernels.png)
+
+### Gradient for image sharpening
+
+- gradients gives the direction of maximal change
+- uses magnitude of the gradient , how much is it changing
+- used for edge enhancements
+
+![edge enhancements](images/edge-enhancements.png)
