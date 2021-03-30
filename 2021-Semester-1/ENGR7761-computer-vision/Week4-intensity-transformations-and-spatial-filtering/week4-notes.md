@@ -58,6 +58,24 @@ on the left image are the original images, the right images are the equalized im
 
 ## 3.3 Linear Spatial Filtering (Convolution and Correlation)
 
+**kernel** is a operator of a matrix
 
+Convolution and correlation - sum of products
+
+![Convolution and correlation](images/correlation-convolution.png)
+
+example [Image kernels explained visually](https://setosa.io/ev/image-kernels/)
+
+### Why use convolution as a linear operator
+
+![why-convolution](images/why-convolution.png)
 
 ## 3.4 Image Sharpening and derivatives
+
+- **sharpening** (highpass) spatial filter - highlights transitions in intensity
+- applications  - image printing, medical imaging, industrial inspection and autonomous driving
+- derivation
+- uses sharpening kernels
+
+![derivative](images/derivative.png)
+
