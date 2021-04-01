@@ -40,7 +40,7 @@ We use **image histograms** to estimate the parameters of most kinds of noise
 ## 3. Filters based on order statistics
 
 ## 4. Modelling degradation
- 
+
 ### Image degradation and restoration process
 
 - Having an estimate for `H(u,v)`
