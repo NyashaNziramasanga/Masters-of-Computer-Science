@@ -33,6 +33,10 @@ We use **image histograms** to estimate the parameters of most kinds of noise
 
 ## 2. Estimating noise parameters
 
+1. Get a distribution of pixel values for one (uniform) region in the image. Get the mean and variance
+2. Try to fit all the distributions with the parameter s obtained, pick the one with the smallest error
+3. Select a strip, too small -> not enough statistics, too large -> risks picking two distinct regions
+
 ## 3. Filters based on order statistics
 
 ## 4. Modelling degradation
