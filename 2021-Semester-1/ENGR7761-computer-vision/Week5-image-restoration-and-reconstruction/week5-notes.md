@@ -41,3 +41,14 @@ We use **image histograms** to estimate the parameters of most kinds of noise
 
 ## 4. Modelling degradation
  
+### Image degradation and restoration process
+
+- Having an estimate for `H(u,v)`
+- If we manage to estimate the filter:
+  - Take the observed image 
+  - Apply a fourier transform
+  - Fourier transform fo the estimated filter
+  - Divide one by the other `F(v,u)`
+  - Get F back to the spatial domain, and we have `f(x,y)` reconstructed
+
+This is inverse filtering
