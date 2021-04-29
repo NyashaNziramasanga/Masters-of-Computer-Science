@@ -25,3 +25,45 @@ What the system will do
 How the system will do it
 
 ![design process](images/design-process.png)
+
+### Advantages
+
+- Stakeholder communication
+- Large scale use
+- System Analysis
+
+### Architecture and system characteristics
+
+- Performance,
+- Security, layered approach with critical assets in the inner layer
+- Safety
+- Availability, redundant components for fault tolerance
+- Maintainability, replaceable components
+
+### Example
+
+![example](images/example.png)
+
+### Architecture Design Decisions
+
+- Generic/existing application architecture to use?
+- How is system distributed
+- What models/styles are appropriate
+- How will the system be broken up into modules
+- Control strategy
+
+### 4+1 Architecture view
+
+![architecture-view](images/architecture-view.png)
+
+### Client-Server Model
+
+- Distributed architecture model
+- Standalone servers offering services
+
+![client server](images/client-server.png)
+
+### Abstract Machine Model
+
+- Organises a system into a series of layers, and each later talks to the layer next to each other.
+- Great for security
