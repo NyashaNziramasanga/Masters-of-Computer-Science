@@ -1,4 +1,4 @@
-# Week7 Software Architectural Design
+# Week 7 Software Architectural Design
 
 Process of defining the architecture, components and interface of a systems
 
@@ -67,3 +67,13 @@ How the system will do it
 
 - Organises a system into a series of layers, and each later talks to the layer next to each other.
 - Great for security
+
+### Model-View-Controller (MVC)
+
+- Separates presentation and interaction from the system data, system is structured in three logical components
+
+![mvc](images/mvc.png)
+
+### Event Driven 
+
+![event driven](images/event-driven)
