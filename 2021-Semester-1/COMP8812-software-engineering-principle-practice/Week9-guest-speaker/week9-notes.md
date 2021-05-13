@@ -21,4 +21,3 @@ What is the point of a methodology
 ## Cost, Quality and Time Paradigm
 
 ![cost, quality and time](images/triangle.png)
-
