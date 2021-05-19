@@ -76,4 +76,4 @@ How the system will do it
 
 ### Event Driven 
 
-![event driven](images/event-driven)
+![event driven](images/event-driven.png)
