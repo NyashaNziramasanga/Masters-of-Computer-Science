@@ -1,4 +1,4 @@
-# Week1 Introduction
+# Week 1 Machine Learning Introduction
 
 ## What is heuristic optimisation
 
@@ -9,3 +9,5 @@
 - Neural Networks
 - Fuzzy Systems
 - Evolutionary Computation
+
+![ai](images/ai.png)
