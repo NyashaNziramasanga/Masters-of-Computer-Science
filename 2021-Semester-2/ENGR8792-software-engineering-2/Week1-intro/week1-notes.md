@@ -1,4 +1,4 @@
-# Week1 Intro
+# Week 1 Intro
 
 ## Text Books
 
