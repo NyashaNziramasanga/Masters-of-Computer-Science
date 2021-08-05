@@ -42,3 +42,14 @@ Describes the software components
 
 ![design-class-diagram](images/design-class-diagram.png)
 
+## Activity Diagram
+
+### Benefits
+
+- Capture, support and encourage parallel behaviour
+- Good for use case analysis
+
+### Issues
+
+- Doesn't link between actions and objects clearly
+- not really Object Orientated
