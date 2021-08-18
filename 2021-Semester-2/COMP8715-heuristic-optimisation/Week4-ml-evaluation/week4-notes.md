@@ -95,3 +95,70 @@ x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.3,random_s
 - Sometimes provides better estimates on small datasets
 
 ![loo](images/loo.png)
+
+## The problem with accuracy
+
+- Unbalanced class distribution e.g. everything is a cat (99% accurate ) because there is one dog
+- Accuracy can be biased to the class with the largest number of cases
+- Many real-world datasets are unbalanced
+- More statistics needed such as:
+  - Precision
+  - Recall
+  - F1-Score
+  - Kappa
+  - informedness
+
+## Statistics for measuring accuracy
+
+### 1.Confusion matrix
+
+![confusion-matrix](images/confusion-matrix.png)
+
+- Goal is to maximise the true positives and true negatives
+- Looking for a diagonals
+
+Accuracy is :
+
+![accuracy](images/accuracy.png)
+
+#### Precision (Vertical)
+
+- Is the number of True Positives divided by the number of True Positives and False Positives
+- Also known as the Positive Predictive Value
+- Measure of a classifier’s exactness
+- A low precision can indicate many False Positives.
+
+![precision](images/precision.png)
+
+#### Recall (Horizontal)
+
+- Is the number of True Positives divided by the number of True Positives and False Negatives
+- Also known as the True Positive Rate
+- Measure of a classifier’s completeness
+- A low recall indicates many False Negatives
+
+![recall](images/recall.png)
+
+### F1 Score
+
+- is the `2*((precision*recall)/(precision+recall))`
+- Conveys the balance between the precision and the recall. Measure of a classifier’s completeness
+
+![f1-score](images/f1-score.png)
+
+### Informedness or bookmaker informedness (BM)
+
+Not biased by unbalance classes with range of [-1 1]
+
+- 0 always being guessing,
+- 1 perfectly correct and
+- -1 perfectly incorrect
+
+![informedness](images/informedness.png)
+
+### Example
+
+- Truth: 80 cats (0), 20 dogs (1),
+- Predict: 99 cats, 1 dog
+
+![example-2](images/example-2.png)
