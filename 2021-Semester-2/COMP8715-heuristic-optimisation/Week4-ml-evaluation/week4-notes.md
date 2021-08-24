@@ -98,7 +98,7 @@ x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.3,random_s
 
 ## The problem with accuracy
 
-- Unbalanced class distribution e.g. everything is a cat (99% accurate ) because there is one dog
+- **Unbalanced class distribution** e.g. everything is a cat (99% accurate ) because there is one dog
 - Accuracy can be biased to the class with the largest number of cases
 - Many real-world datasets are unbalanced
 - More statistics needed such as:
@@ -148,7 +148,8 @@ Accuracy is :
 
 ### Informedness or bookmaker informedness (BM)
 
-Not biased by unbalance classes with range of [-1 1]
+- Not biased by unbalance classes with range of [-1 0 1]
+- Uses all TP, FN, FP and TN into account
 
 - 0 always being guessing,
 - 1 perfectly correct and
@@ -162,3 +163,47 @@ Not biased by unbalance classes with range of [-1 1]
 - Predict: 99 cats, 1 dog
 
 ![example-2](images/example-2.png)
+
+## Area Under the Curve (AUC) / Receiver Operator Characteristic (ROC)
+
+- Performance measurement for **binary** classification problems at various thresholds settings
+- Sensitivity vs Specificity, TPR vs TNR, TP/(TP + FN) vs TN/(TN + FP)
+
+### ROC Curve
+
+![roc-curve](images/roc-curve.png)
+
+![roc-curve-2](images/roc-curve-2.png)
+
+## Defining terms
+
+**Epoch** - Presenting all the K examples in the training sample
+
+### Batch learning
+
+Present all the training samples to the algorithm (backprop once per epoch)
+
+#### Good
+
+- Accurate estimate of the gradient vector
+- Parallelization
+
+#### Bad
+
+- Demanding on storage requirements
+
+### Online learning
+
+- Supply sample by sample basis (backprop )
+
+#### Good
+
+- Simple to implement
+- Less likely to be trapped in a local minimum
+- Sensitive to redundant and non-stationary data
+
+#### Bad
+
+- Sensitive to redundant and non-stationary data
+- Cannot parallelize the learning process
+
