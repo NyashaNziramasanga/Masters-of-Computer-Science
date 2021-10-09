@@ -29,8 +29,14 @@
 
 | Semester | Topic |
 | -------- | ----- |
-| 1        | TBA   |
-| 2        | TBA   |
+| 1        | COMP9700A -  Masters Thesis |
+| 1        | COMP9700B - Masters Thesis |
+| 1        | COMP8812 Software Engineering Principles and Practice GE |
+| 1        | ENGR7761 Computer Vision |
+| 2        | ENGR8792 -  Software Engineer 2 |
+| 2        | COMP8715 - Heuristic Optimisation |
+| 2        | COMP9700D -  Masters Thesis |
+| 2        | COMP9700C -  Masters Thesis |
 
 ## Setup Lecture Notes Script
 
