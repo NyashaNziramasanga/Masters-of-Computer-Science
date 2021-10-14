@@ -65,6 +65,7 @@ What parameters can we use for our models
 - Not a single classifier, but 10 x 10 = 100 instances of a classifier!!
 
 [pract4 10x10 CV](https://colab.research.google.com/drive/1nZobuO7rMfZUv7sEKfMGBqKOAcREo1X0?usp=sharing)
+
 [Statistical comparison of models using grid search](https://scikit-learn.org/stable/auto_examples/model_selection/plot_grid_search_stats.html)
 
 ![10-cv](images/10-cv.png)
